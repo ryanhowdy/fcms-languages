@@ -1,18 +1,12 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: familycms\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-05-30 10:35-0400\n"
-"PO-Revision-Date: 2017-10-29 17:52+0000\n"
-"Last-Translator: Hakan Gür <hakangur@yahoo.com>\n"
-"Language-Team: Turkish <tr@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2017-12-11 17:28+0000\n"
-"X-Generator: Launchpad (build 18511)\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Family Connections\n"
 "Language: tr\n"
+"Plural-Forms: nplurals=2; plural=(n>1);\n"
 
 #: familyconnections/activate.php:22 familyconnections/fcms.php:556
 #: familyconnections/gallery/slideshow.php:30
@@ -77,12 +71,8 @@ msgid "Address Book"
 msgstr "Adres Defteri"
 
 #: familyconnections/addressbook.php:225
-msgid ""
-"You do not have permission to perform this task.  You must have an access "
-"level of 3 (Member) or higher."
-msgstr ""
-"Bu uygulama için gereken yetkiniz yok. En az üçüncü düzey üyelik izni "
-"gerekiyor."
+msgid "You do not have permission to perform this task.  You must have an access level of 3 (Member) or higher."
+msgstr "Bu uygulama için gereken yetkiniz yok. En az üçüncü düzey üyelik izni gerekiyor."
 
 #: familyconnections/addressbook.php:236
 msgid "You must choose at least one member to email."
@@ -343,12 +333,8 @@ msgstr "Bu sayfaya erişim için 1. düzey (Yönetici) yetkisi gerekli."
 #: familyconnections/admin/polls.php:171
 #: familyconnections/admin/scheduler.php:146 familyconnections/profile.php:314
 #: familyconnections/settings.php:976
-msgid ""
-"Please contact your website's administrator if you feel you should have "
-"access to this page."
-msgstr ""
-"Bu sayfaya erişimin hakkınız olduğunu düşünüyorsanız site yöneticisi ile "
-"iletişime geçin."
+msgid "Please contact your website's administrator if you feel you should have access to this page."
+msgstr "Bu sayfaya erişimin hakkınız olduğunu düşünüyorsanız site yöneticisi ile iletişime geçin."
 
 #: familyconnections/admin/config.php:273
 msgid "Admin Activation"
@@ -692,12 +678,8 @@ msgid "Your photos can be viewed from non-authorized users."
 msgstr "Fotoğraflarınız yetkili olmayan kullanıcılar tarafından görülebilir."
 
 #: familyconnections/admin/config.php:1405
-msgid ""
-"In order to protect your photos so only logged in users can view them, "
-"please refer to the help document below."
-msgstr ""
-"Fotoğraflarınızı yalnzca giriş yapmış kullanıcıların görebileceği biçimde "
-"korumak için aşağıdaki yardım belgesini kullanın."
+msgid "In order to protect your photos so only logged in users can view them, please refer to the help document below."
+msgstr "Fotoğraflarınızı yalnzca giriş yapmış kullanıcıların görebileceği biçimde korumak için aşağıdaki yardım belgesini kullanın."
 
 #: familyconnections/admin/config.php:1406
 msgid "Help Me Protect My Photos"
@@ -708,14 +690,8 @@ msgid "Full Size Photos"
 msgstr "Tam Boyut Fotoğraflar"
 
 #: familyconnections/admin/config.php:1432
-msgid ""
-"By default, Full Sized Photos is turned off to save on storage space and "
-"bandwidth.  Turning this feature on can eat up significant space and "
-"bandwith."
-msgstr ""
-"Varsayılan ayarlara göre, depolama alanından ve bant genişliğinden tasarruf "
-"amacıyla Tam Boyutlu Fotoğraflar seçeneği kapalı. Bu özellik açılırsa büyük "
-"ölçüde alan ve bant genişliği kullanabilir."
+msgid "By default, Full Sized Photos is turned off to save on storage space and bandwidth.  Turning this feature on can eat up significant space and bandwith."
+msgstr "Varsayılan ayarlara göre, depolama alanından ve bant genişliğinden tasarruf amacıyla Tam Boyutlu Fotoğraflar seçeneği kapalı. Bu özellik açılırsa büyük ölçüde alan ve bant genişliği kullanabilir."
 
 #: familyconnections/admin/config.php:1437
 msgid "Protected Photos"
@@ -799,7 +775,6 @@ msgid "PHP Max Script Execution Time"
 msgstr "PHP Max Script Execution Time"
 
 #: familyconnections/admin/debug.php:258
-#, php-format
 msgid "%s seconds"
 msgstr "%s saniye"
 
@@ -954,13 +929,8 @@ msgid "Facebook Integration"
 msgstr "Facebook Entegrasyonu"
 
 #: familyconnections/admin/facebook.php:141
-msgid ""
-"In order to integrate Family Connections with Facebook, you must create a "
-"new Facebook app, and configure that app in Family Connections."
-msgstr ""
-"Facebook ile Family Connections sitenizin bilgi aylaşımı için yeni bir "
-"Facebook uygulaması oluşturmanız ve o uygulamayı Family Connections ile "
-"yapılandırmanız gerekir."
+msgid "In order to integrate Family Connections with Facebook, you must create a new Facebook app, and configure that app in Family Connections."
+msgstr "Facebook ile Family Connections sitenizin bilgi aylaşımı için yeni bir Facebook uygulaması oluşturmanız ve o uygulamayı Family Connections ile yapılandırmanız gerekir."
 
 #: familyconnections/admin/facebook.php:150
 #: familyconnections/admin/foursquare.php:218
@@ -979,9 +949,7 @@ msgid "Create Facebook Application"
 msgstr "Facebook Uygulaması Oluştur"
 
 #: familyconnections/admin/facebook.php:158
-msgid ""
-"You don't really have to fill out any additional information other than the "
-"application name."
+msgid "You don't really have to fill out any additional information other than the application name."
 msgstr "Uygulama adından başka bir ek bilgi yazmanız gerekmiyor."
 
 #: familyconnections/admin/facebook.php:169
@@ -993,12 +961,8 @@ msgid "Step 2"
 msgstr "2. Adım"
 
 #: familyconnections/admin/facebook.php:171
-msgid ""
-"Fill out the form with the App Id and App Secret from your newly created "
-"Facebook Application."
-msgstr ""
-"Yeni oluşturduğunuz Facebook Uygulaması için verien App Id ve App Secret "
-"bilgilerini buraya yazın."
+msgid "Fill out the form with the App Id and App Secret from your newly created Facebook Application."
+msgstr "Yeni oluşturduğunuz Facebook Uygulaması için verien App Id ve App Secret bilgilerini buraya yazın."
 
 #: familyconnections/admin/facebook.php:180
 msgid "Facebook Application"
@@ -1020,8 +984,7 @@ msgstr "Yönetim: Foursquare"
 #: familyconnections/admin/index.php:276 familyconnections/admin/polls.php:170
 #: familyconnections/admin/scheduler.php:145
 msgid "This page requires an access level 2 (Helper) or better."
-msgstr ""
-"Bu sayfaya 2. Seviye (Yardımcı) ya da daha yüksek bir düzeydekiler girebilir."
+msgstr "Bu sayfaya 2. Seviye (Yardımcı) ya da daha yüksek bir düzeydekiler girebilir."
 
 #: familyconnections/admin/foursquare.php:219
 msgid "Go to Foursquare and register a new app."
@@ -1032,15 +995,8 @@ msgid "Register a new foursquare app."
 msgstr "Yeni bir Foursquare uygulaması kayıt edin."
 
 #: familyconnections/admin/foursquare.php:224
-msgid ""
-"Be sure to include settings.php as part of your callback url.  For example: "
-"if your site is located at http://www.my-awesome-site.com/fcms/index.php "
-"then your callback url should be http://www.my-awesome-"
-"site.com/fcms/settings.php"
-msgstr ""
-"Callback URL alanına settings.php eklemeyi unutmayın. Örneğin, sitenizin "
-"adresi http://benimsitem.com/fcms/index.php ise Callback URL "
-"http://benimsitem.com/fcms/settings.php olmalı."
+msgid "Be sure to include settings.php as part of your callback url.  For example: if your site is located at http://www.my-awesome-site.com/fcms/index.php then your callback url should be http://www.my-awesome-site.com/fcms/settings.php"
+msgstr "Callback URL alanına settings.php eklemeyi unutmayın. Örneğin, sitenizin adresi http://benimsitem.com/fcms/index.php ise Callback URL http://benimsitem.com/fcms/settings.php olmalı."
 
 #: familyconnections/admin/foursquare.php:236
 msgid "Fill out the form below with the information you provided in Step 1."
@@ -1084,7 +1040,6 @@ msgid "No photos have been added yet."
 msgstr "Henüz hiç fotoğraf eklenmedi."
 
 #: familyconnections/admin/gallery.php:250
-#, php-format
 msgid "%d photos"
 msgstr "%d Fotoğraf"
 
@@ -1156,19 +1111,14 @@ msgid "Google Integration"
 msgstr "Google Entegrasyonu"
 
 #: familyconnections/admin/google.php:143
-msgid ""
-"In order to integrate Family Connections with Google, you must create a "
-"Google API Project."
-msgstr ""
-"Family Connections ile Google entegrasyonu için bir Goople API Project "
-"oluşturmalısınız."
+msgid "In order to integrate Family Connections with Google, you must create a Google API Project."
+msgstr "Family Connections ile Google entegrasyonu için bir Goople API Project oluşturmalısınız."
 
 #: familyconnections/admin/google.php:154
 msgid "Go to Google and create a new API Project."
 msgstr "Google sitesine gidip yeni bir API Project oluşturun."
 
 #: familyconnections/admin/google.php:160
-#, php-format
 msgid "Open the %s."
 msgstr "%s aç."
 
@@ -1189,8 +1139,7 @@ msgid "Select Consent screen."
 msgstr "Onay ekranını aç."
 
 #: familyconnections/admin/google.php:165
-msgid ""
-"Fill out the Product name and any other optional information and Save."
+msgid "Fill out the Product name and any other optional information and Save."
 msgstr "Ürün adıyla birlikte diğer isteğe bağlı bilgileri ver ve Kaydet."
 
 #: familyconnections/admin/google.php:166
@@ -1206,24 +1155,16 @@ msgid "Select Web application for the application type."
 msgstr "Uygulama tpi için Web uygulamasını seç."
 
 #: familyconnections/admin/google.php:169
-msgid ""
-"Fill out the Authorized redirct URIs, they need to end with "
-"\"settings.php?view=google&oauth2callback\"."
-msgstr ""
-"Giriş için adresi yaz; adres  \"settings.php?view=google&oauth2callback\" "
-"ile bitmeli."
+msgid "Fill out the Authorized redirct URIs, they need to end with \"settings.php?view=google&oauth2callback\"."
+msgstr "Giriş için adresi yaz; adres  \"settings.php?view=google&oauth2callback\" ile bitmeli."
 
 #: familyconnections/admin/google.php:170
 msgid "Click Create Client ID."
 msgstr "Create Client ID yazısını tıkla."
 
 #: familyconnections/admin/google.php:183
-msgid ""
-"Fill out the form below with the Client ID for web application detials you "
-"created in Step 1 above."
-msgstr ""
-"Yukarıda 1. Adımda oluşturduğunuz web uygulaması için verilen Client ID "
-"aşağıdaki forma yazılmalı."
+msgid "Fill out the form below with the Client ID for web application detials you created in Step 1 above."
+msgstr "Yukarıda 1. Adımda oluşturduğunuz web uygulaması için verilen Client ID aşağıdaki forma yazılmalı."
 
 #: familyconnections/admin/google.php:192
 msgid "Google"
@@ -1255,7 +1196,6 @@ msgid "New Members"
 msgstr "Yeni Üyeler"
 
 #: familyconnections/admin/index.php:153
-#, php-format
 msgid "%s is requesting access to the site."
 msgstr "%s siteye erişmek istiyor."
 
@@ -1282,7 +1222,6 @@ msgstr "Hesap Etkinleştirildi"
 
 #: familyconnections/admin/index.php:253
 #: familyconnections/admin/members.php:775
-#, php-format
 msgid "Your account at %s has been activated by the administrator."
 msgstr "%s sitesinde hesabınız yönetici tarafından etkinleştirildi."
 
@@ -1295,14 +1234,8 @@ msgid "Instagram Integration"
 msgstr "Instagram Entegrasyonu"
 
 #: familyconnections/admin/instagram.php:170
-msgid ""
-"In order to integrate Family Connections with Instagram, you must create a "
-"new Instagram client as Instagram.com, and configure that client in Family "
-"Connections."
-msgstr ""
-"Family Conections sitenizle Instagram arasında veri payaşımı için, "
-"Instagram.com adresinde yeni bir Instagram Client oluşturup Family  "
-"Connections sitenizde bunu yapılandırın."
+msgid "In order to integrate Family Connections with Instagram, you must create a new Instagram client as Instagram.com, and configure that client in Family Connections."
+msgstr "Family Conections sitenizle Instagram arasında veri payaşımı için, Instagram.com adresinde yeni bir Instagram Client oluşturup Family  Connections sitenizde bunu yapılandırın."
 
 #: familyconnections/admin/instagram.php:181
 msgid "Got to Instagram and register a new Instagram client."
@@ -1313,16 +1246,11 @@ msgid "Register new Instagram Client"
 msgstr "Yeni Instagram Client kaydet"
 
 #: familyconnections/admin/instagram.php:189
-msgid ""
-"Make sure you add <code>settings.php?view=instagram</code> to your Callback "
-"URL."
-msgstr ""
-"Callback URL sonuna <code>settings.php?view=instagram</code> eklemeyi "
-"unutmayın."
+msgid "Make sure you add <code>settings.php?view=instagram</code> to your Callback URL."
+msgstr "Callback URL sonuna <code>settings.php?view=instagram</code> eklemeyi unutmayın."
 
 #: familyconnections/admin/instagram.php:202
-msgid ""
-"Fill out the form below with the Instagram Client Id and Client Secret."
+msgid "Fill out the form below with the Instagram Client Id and Client Secret."
 msgstr "Instagram Client Id ve Client Secret ile aşağıdaki formu doldurun."
 
 #: familyconnections/admin/members.php:54
@@ -1335,13 +1263,11 @@ msgstr "Birleştirmek için bir üye seçmelisiniz."
 
 #: familyconnections/admin/members.php:307
 #: familyconnections/admin/members.php:338
-#, php-format
 msgctxt "%s is a name of a table that gets updated."
 msgid "Update [%s] complete."
 msgstr "Güncelleme [%s] tamamlandı."
 
 #: familyconnections/admin/members.php:359
-#, php-format
 msgctxt "%s is a name of a table that is deleted."
 msgid "Delete [%s] complete."
 msgstr "Silme işlemi [%s] tamamlandı."
@@ -1354,19 +1280,14 @@ msgstr "Gerekli Alan Eksik"
 
 #: familyconnections/admin/members.php:407
 #: familyconnections/admin/members.php:652 familyconnections/settings.php:391
-#, php-format
-msgid ""
-"The email address %s is already in use.  Please choose a different email."
-msgstr ""
-"%s eposta adresi zaten kullanılmakta. Bbaşka bir eposta adresi yazın."
+msgid "The email address %s is already in use.  Please choose a different email."
+msgstr "%s eposta adresi zaten kullanılmakta. Bbaşka bir eposta adresi yazın."
 
 #: familyconnections/admin/members.php:510
-#, php-format
 msgid "Invitation to %s"
 msgstr "%s için davet"
 
 #: familyconnections/admin/members.php:521
-#, php-format
 msgid "You have been invited by %s to join %s."
 msgstr "%s tarafından %s etkinliğine katılmaya davet edildiniz."
 
@@ -1393,7 +1314,6 @@ msgstr "Teşekkürler"
 
 #: familyconnections/admin/members.php:530 familyconnections/lostpw.php:104
 #: familyconnections/register.php:349
-#, php-format
 msgid "The %s Webmaster"
 msgstr "%s Site Yöneticisi"
 
@@ -1407,12 +1327,10 @@ msgid "Password Change"
 msgstr "Şifre Değişimi"
 
 #: familyconnections/admin/members.php:673
-#, php-format
 msgid "Your password at %s has been changed by the administrator."
 msgstr "%s adresindeki şifreniz yönetici tarafından değiştirildi."
 
 #: familyconnections/admin/members.php:675
-#, php-format
 msgid "Your new password is %s"
 msgstr "Yeni şifreniz %s"
 
@@ -1483,7 +1401,6 @@ msgstr "Anketi Düzenle"
 #: familyconnections/admin/polls.php:535 familyconnections/admin/polls.php:539
 #: familyconnections/admin/polls.php:543 familyconnections/admin/polls.php:547
 #: familyconnections/admin/polls.php:551 familyconnections/admin/polls.php:555
-#, php-format
 msgid "Option %s"
 msgstr "Seçenek %s"
 
@@ -1536,14 +1453,8 @@ msgid "A scheduled job is currently running."
 msgstr "Zamanlanmış bir eylem şu anda çalışıyor."
 
 #: familyconnections/admin/scheduler.php:189
-msgid ""
-"Most jobs take less than an hour to complete, if the last successfull run "
-"for a scheduled job below is over an hour ago, their may be a problem with "
-"the current job."
-msgstr ""
-"Pek çok işin tamamlanması bir saatten kısa sürer; eğer aşağıda zamanlanmış "
-"bir işin başarıyla tamamlanması bir saati aşkın bir süre önce olduysa, bu "
-"işle ilgili bir sorun olabilir."
+msgid "Most jobs take less than an hour to complete, if the last successfull run for a scheduled job below is over an hour ago, their may be a problem with the current job."
+msgstr "Pek çok işin tamamlanması bir saatten kısa sürer; eğer aşağıda zamanlanmış bir işin başarıyla tamamlanması bir saati aşkın bir süre önce olduysa, bu işle ilgili bir sorun olabilir."
 
 #: familyconnections/admin/scheduler.php:190
 msgid "To debug this job:"
@@ -1683,7 +1594,6 @@ msgid "Turning site back on."
 msgstr "Site erişilir hale getiriliyor."
 
 #: familyconnections/admin/upgrade.php:381
-#, php-format
 msgid "Upgrading to %s"
 msgstr "%s için yükseltme"
 
@@ -1697,17 +1607,10 @@ msgid "Awesome, you have the latest version of Family Connections."
 msgstr "Family Connections yazılımının en son sürümüne sahipsiniz."
 
 #: familyconnections/admin/upgrade.php:424
-#, php-format
-msgid ""
-"You do not need to upgrade at this time, you are currently running %s, which "
-"is the most up to date version. If you need to, you can re-install the "
-"current version."
-msgstr ""
-"En güncel %s sürümüne sahipsiniz, güncellemenize gerek yok. Ancak çeşitli "
-"nedenlerle güncellemek istiyorsanız kurulumu tekrar yapabilirsinz."
+msgid "You do not need to upgrade at this time, you are currently running %s, which is the most up to date version. If you need to, you can re-install the current version."
+msgstr "En güncel %s sürümüne sahipsiniz, güncellemenize gerek yok. Ancak çeşitli nedenlerle güncellemek istiyorsanız kurulumu tekrar yapabilirsinz."
 
 #: familyconnections/admin/upgrade.php:429
-#, php-format
 msgid "Re-install %s"
 msgstr "%s sürümünü yeniden yükle"
 
@@ -1731,13 +1634,8 @@ msgid "Bummer!, you need to Update."
 msgstr "Güncelleme yapmanız gerekiyòr."
 
 #: familyconnections/admin/upgrade.php:449
-#, php-format
-msgid ""
-"Your version (%s) is out of date.  Please update to the latest version using "
-"the Automatic Upgrade, or by downloading and manually upgrading."
-msgstr ""
-"Kullandığınızsürüm  (%s) güncel değil. Kendiliğinden Yükseltmeyi kullanarak "
-"ya da dosyayı indirip kendiniz yükleyerek yükseltme işlemini yaın."
+msgid "Your version (%s) is out of date.  Please update to the latest version using the Automatic Upgrade, or by downloading and manually upgrading."
+msgstr "Kullandığınızsürüm  (%s) güncel değil. Kendiliğinden Yükseltmeyi kullanarak ya da dosyayı indirip kendiniz yükleyerek yükseltme işlemini yaın."
 
 #: familyconnections/admin/upgrade.php:450
 msgid "Remember to back up your site first."
@@ -1748,7 +1646,6 @@ msgid "Back to Automatic Upgrade"
 msgstr "Kendiliğinden Yükseltmeye Geri Dön"
 
 #: familyconnections/admin/upgrade.php:685
-#, php-format
 msgid "Please follow the steps below to manually upgrade to %s."
 msgstr "%s sürümüne elle yükseltmek içn aşağıdaki adımları ìzleyin."
 
@@ -1757,25 +1654,16 @@ msgid "Turn Off Site"
 msgstr "Siteyi Kapatın"
 
 #: familyconnections/admin/upgrade.php:690
-msgid ""
-"Turning the site off during an upgrade keeps users from trying to login and "
-"potentially causing problems."
-msgstr ""
-"Yükseltme esnasında siteyi kapalı tutarak üyelerin giriş yapmaya çalışmasını "
-"ve olası sorunları engelleyin."
+msgid "Turning the site off during an upgrade keeps users from trying to login and potentially causing problems."
+msgstr "Yükseltme esnasında siteyi kapalı tutarak üyelerin giriş yapmaya çalışmasını ve olası sorunları engelleyin."
 
 #: familyconnections/admin/upgrade.php:694
 msgid "Manual Upgrade Files"
 msgstr "Dosyaları Elle Yükselt"
 
 #: familyconnections/admin/upgrade.php:695
-msgid ""
-"Since your webserver does not support the Automatic Upgrade, you must "
-"download the latest Family Connection files and upload them to your site "
-"manually."
-msgstr ""
-"Web sunucnuz Kendìliğinden Yükseltmeyi desteklemediği için en yeni Family "
-"Connections dosyalaını indirip sitenize elle yüklemelisinìz."
+msgid "Since your webserver does not support the Automatic Upgrade, you must download the latest Family Connection files and upload them to your site manually."
+msgstr "Web sunucnuz Kendìliğinden Yükseltmeyi desteklemediği için en yeni Family Connections dosyalaını indirip sitenize elle yüklemelisinìz."
 
 #: familyconnections/admin/upgrade.php:696
 msgid "You must make sure to complete this step before continuing."
@@ -1791,8 +1679,7 @@ msgstr "Veritabanını Yükselt"
 
 #: familyconnections/admin/upgrade.php:701
 msgid "Make any databases changes needed for this upgrade."
-msgstr ""
-"Bu yükseltme için gereken veritabanı değişikliklerini gerçekleştirin."
+msgstr "Bu yükseltme için gereken veritabanı değişikliklerini gerçekleştirin."
 
 #: familyconnections/admin/upgrade.php:704
 msgid "Step 4"
@@ -1836,8 +1723,7 @@ msgid "Please create a new non-repeating event and invite guests to that."
 msgstr "Yeni bir yinelenmeyen etkinlik seçip buna konuk davet edin."
 
 #: familyconnections/calendar.php:496
-msgid ""
-"The changes to this  event have been saved, but no invitations were sent."
+msgid "The changes to this  event have been saved, but no invitations were sent."
 msgstr "Bu etkinliğin değişiklikleri kaydedildi ama davet gönderilmedi."
 
 #: familyconnections/calendar.php:542
@@ -1865,21 +1751,17 @@ msgid "You must invite at least one guest."
 msgstr "En az bir konuk davet etmelisiniz."
 
 #: familyconnections/calendar.php:1112
-#, php-format
 msgctxt "%s is the title of an event"
 msgid "Invitation: %s"
 msgstr "Davet: %s"
 
 #: familyconnections/calendar.php:1114
-#, php-format
 msgctxt "%s is the name of a person, like Dear Bob,"
 msgid "Dear %s,"
 msgstr "Sayın %s,"
 
 #: familyconnections/calendar.php:1116
-#, php-format
-msgctxt ""
-"The first %s is the name of a person, the second is the title of an event"
+msgctxt "The first %s is the name of a person, the second is the title of an event"
 msgid "%s has invited you to %s."
 msgstr "%s sizi %s etkinliğine davet ediyor."
 
@@ -1947,7 +1829,6 @@ msgid "Documents"
 msgstr "Dosyalar"
 
 #: familyconnections/documents.php:212 familyconnections/rss.php:204
-#, php-format
 msgid "%s has added a new document (%s)."
 msgstr "%s yeni bir dosya ekledi (%s)."
 
@@ -1965,12 +1846,8 @@ msgstr "Sayın"
 #: familyconnections/messageboard.php:319
 #: familyconnections/messageboard.php:429 familyconnections/prayers.php:231
 #: familyconnections/recipes.php:305
-msgid ""
-"To stop receiving these notifications, visit the following url and change "
-"your 'Email Update' setting to No:"
-msgstr ""
-"Bu bildirimleri almak istemiyorsanız aşağıdaki bağlantıyı izleyin ve Eposta "
-"Güncelleme ayarlarınızı Hayır olarak değiştirin:"
+msgid "To stop receiving these notifications, visit the following url and change your 'Email Update' setting to No:"
+msgstr "Bu bildirimleri almak istemiyorsanız aşağıdaki bağlantıyı izleyin ve Eposta Güncelleme ayarlarınızı Hayır olarak değiştirin:"
 
 #: familyconnections/documents.php:267
 msgid "Document could not be deleted from the server."
@@ -2000,7 +1877,6 @@ msgid "My News"
 msgstr "Haberlerim"
 
 #: familyconnections/familynews.php:235
-#, php-format
 msgid "%s has added %s to his/her Family News"
 msgstr "%s kendi Aile Haberlerine %s ekledi"
 
@@ -2065,28 +1941,24 @@ msgstr "Geçersiz bir aile üyesi tipi yazdınız."
 
 #: familyconnections/familytree.php:582
 #: familyconnections/inc/FamilyTree.php:840
-#, php-format
 msgctxt "%s is a persons name"
 msgid "Add new father for %s"
 msgstr "%s için baba ekle"
 
 #: familyconnections/familytree.php:588
 #: familyconnections/inc/FamilyTree.php:847
-#, php-format
 msgctxt "%s is a persons name"
 msgid "Add new mother for %s"
 msgstr "%s için anne ekle"
 
 #: familyconnections/familytree.php:594
 #: familyconnections/inc/FamilyTree.php:854
-#, php-format
 msgctxt "%s is a persons name"
 msgid "Add new spouse for %s"
 msgstr "%s için eş ekle"
 
 #: familyconnections/familytree.php:600
 #: familyconnections/inc/FamilyTree.php:961
-#, php-format
 msgctxt "%s is a persons name"
 msgid "Add new child for %s"
 msgstr "%s için çocuk ekle"
@@ -2098,7 +1970,6 @@ msgstr "Çocuk"
 
 #: familyconnections/familytree.php:606
 #: familyconnections/inc/FamilyTree.php:1015
-#, php-format
 msgctxt "%s is a persons name"
 msgid "Add new brother for %s"
 msgstr "%s için erkek kardeş ekle"
@@ -2111,7 +1982,6 @@ msgstr "Erkek kardeş"
 
 #: familyconnections/familytree.php:612
 #: familyconnections/inc/FamilyTree.php:1023
-#, php-format
 msgctxt "%s is a persons name"
 msgid "Add new sister for %s"
 msgstr "%s için kızkardeş ekle"
@@ -2132,19 +2002,14 @@ msgid "Out of Memory"
 msgstr "Yetersiz Bellek"
 
 #: familyconnections/familytree.php:824
-msgid ""
-"Your current PHP configuration does not allow displaying of a Family Tree "
-"this large, so not all relationships are shown."
-msgstr ""
-"Mevcut PHP ayarları bu boyutta bir soyağacının gösterilmesine uygun değil; "
-"tüm akraba bağları gösterilemiyor."
+msgid "Your current PHP configuration does not allow displaying of a Family Tree this large, so not all relationships are shown."
+msgstr "Mevcut PHP ayarları bu boyutta bir soyağacının gösterilmesine uygun değil; tüm akraba bağları gösterilemiyor."
 
 #: familyconnections/familytree.php:825
 msgid "Please consider allocating more memory to PHP."
 msgstr "PHP için daha fazla bellek ayırabilirsiniz."
 
 #: familyconnections/familytree.php:1080
-#, php-format
 msgctxt "%s is the name of a person"
 msgid "Add family member for %s"
 msgstr "%s için aile üyesi ekle"
@@ -2206,14 +2071,11 @@ msgid "Create New Category"
 msgstr "Yeni Kategori Oluştur"
 
 #: familyconnections/gallery/index.php:781
-msgid ""
-"Your Instagram photos will be automatically imported into the site soon."
+msgid "Your Instagram photos will be automatically imported into the site soon."
 msgstr "Instagram fotoğraflarınız otomatik olarak alınacak."
 
 #: familyconnections/gallery/index.php:808
-msgid ""
-"Your Instagram photos will no longer be automatically imported into the site "
-"soon."
+msgid "Your Instagram photos will no longer be automatically imported into the site soon."
 msgstr "Instagram fotoğraflarınız artık siteye otomatik olarak alınmayacak."
 
 #: familyconnections/gallery/index.php:933
@@ -2225,7 +2087,6 @@ msgid "Category name cannot be blank."
 msgstr "Kategori adı boş bırakılamaz."
 
 #: familyconnections/gallery/index.php:982
-#, php-format
 msgid "The Category %s was Updated Successfully"
 msgstr "Kategori %s Güncellendi"
 
@@ -2331,7 +2192,6 @@ msgid "Update Facebook?"
 msgstr "Facebook güncellensin mi?"
 
 #: familyconnections/home.php:396
-#, php-format
 msgid "%s added a new status update."
 msgstr "%s yeni bir durum güncellemesi ekledi."
 
@@ -2380,7 +2240,6 @@ msgid "Reply"
 msgstr "Yanıt"
 
 #: familyconnections/home.php:685
-#, php-format
 msgid "Added address information for %s."
 msgstr "%s için adres bilgisi ekledi."
 
@@ -2405,7 +2264,6 @@ msgid "Commented on the following photo:"
 msgstr "Şu fotoğrafı yorumladı:"
 
 #: familyconnections/home.php:719
-#, php-format
 msgid "Added %d new photos."
 msgstr "%d yeni fotoğraf ekledi."
 
@@ -2458,19 +2316,16 @@ msgid "cell phone number"
 msgstr "cep telefonu numarası"
 
 #: familyconnections/home.php:794
-#, php-format
 msgctxt "Example: \"Updated the <address/phone/email> for <name>.\""
 msgid "Updated the %s for %s."
 msgstr "%s %s için güncellendi."
 
 #: familyconnections/home.php:800
-#, php-format
 msgctxt "Example: \"Updated her <address/phone/email>.\""
 msgid "Updated her %s."
 msgstr "Kendisine ait %s güncellendi."
 
 #: familyconnections/home.php:804
-#, php-format
 msgctxt "Example: \"Updated his <address/phone/email>.\""
 msgid "Updated his %s."
 msgstr "Kendisine ait %s güncellendi."
@@ -2492,7 +2347,6 @@ msgid "Last Seen"
 msgstr "Son Görülme"
 
 #: familyconnections/inc/addressbook_class.php:78
-#, php-format
 msgid "Could not find address (%s)"
 msgstr "Adres bulunamadı (%s)"
 
@@ -2726,12 +2580,8 @@ msgid "or"
 msgstr "ya da"
 
 #: familyconnections/inc/addressbook_class.php:567
-msgid ""
-"Please only add addresses for Non-members. Anyone who is a member of this "
-"website must add/update their own address."
-msgstr ""
-"Yalnızca Üye Olmayanlar için adresler ekleyin. Bu web sitesine üye olan "
-"herkes kendi adresini eklemeli/güncellemeli."
+msgid "Please only add addresses for Non-members. Anyone who is a member of this website must add/update their own address."
+msgstr "Yalnızca Üye Olmayanlar için adresler ekleyin. Bu web sitesine üye olan herkes kendi adresini eklemeli/güncellemeli."
 
 #: familyconnections/inc/addressbook_class.php:570
 msgid "Add Address"
@@ -2757,14 +2607,8 @@ msgid "Private"
 msgstr "Özel"
 
 #: familyconnections/inc/addressbook_class.php:685
-msgid ""
-"Filling out the form below will send an email to all the selected members in "
-"your addressbook. Sending an email to a large number of people can take a "
-"long time. Please be patient."
-msgstr ""
-"Aşağıdaki form doldurulduğunda adres defterinizde seçili tüm üyelere eposta "
-"gönderilecek. Büyük sayıda alıcıya eposta göndermek zaman alabilir. Sabırlı "
-"olun."
+msgid "Filling out the form below will send an email to all the selected members in your addressbook. Sending an email to a large number of people can take a long time. Please be patient."
+msgstr "Aşağıdaki form doldurulduğunda adres defterinizde seçili tüm üyelere eposta gönderilecek. Büyük sayıda alıcıya eposta göndermek zaman alabilir. Sabırlı olun."
 
 #: familyconnections/inc/addressbook_class.php:752
 #: familyconnections/profile.php:434
@@ -2772,12 +2616,10 @@ msgid "Send Email"
 msgstr "E-posta Gönder"
 
 #: familyconnections/inc/addressbook_class.php:840
-#, php-format
 msgid "%s (%s) is not a CSV file."
 msgstr "%s (%s) geçerli bir CVS dosyası değil."
 
 #: familyconnections/inc/addressbook_class.php:1210
-#, php-format
 msgid "%d Address Added Successfully"
 msgid_plural "%d Addresses Added Successfully"
 msgstr[0] "%d adres başarıyla eklendi."
@@ -3068,14 +2910,11 @@ msgid "Next"
 msgstr "Sonraki"
 
 #: familyconnections/inc/admin_members_class.php:707
-msgid ""
-"Choose which information you would like to use from the two members below."
+msgid "Choose which information you would like to use from the two members below."
 msgstr "Aşağıdaki iki üyeden hangi bilgileri kullanmak istediğinizi seçin."
 
 #: familyconnections/inc/admin_members_class.php:708
-#, php-format
-msgid ""
-"Please note that user [%s] and all information not selected will be deleted."
+msgid "Please note that user [%s] and all information not selected will be deleted."
 msgstr "Kullanıcı [%s] ve ona ait bütün bilgiler silinecek."
 
 #: familyconnections/inc/admin_members_class.php:1170
@@ -3118,7 +2957,6 @@ msgid "Non-editable Member"
 msgstr "Düzenlenemez Üye"
 
 #: familyconnections/inc/admin_members_class.php:1462
-#, php-format
 msgid "Merge [%s] complete."
 msgstr "Birleştirme [%s] tamam."
 
@@ -3151,7 +2989,6 @@ msgid "Complete the following list to get the most out of the site:"
 msgstr "Siteden tam ölçüde yararlanabilmek için listedekileri tamamlayın:"
 
 #: familyconnections/inc/alerts_class.php:138
-#, php-format
 msgid "Your profile is %s complete."
 msgstr "Kimlik bilgileriniz %s tamamlandı."
 
@@ -3165,17 +3002,11 @@ msgstr "Anket Yönetimine hoşgeldiniz."
 
 #: familyconnections/inc/alerts_class.php:182
 msgid "Here you can add new Poll questions or edit existing polls."
-msgstr ""
-"Burada yeni Anket soruları ekleyebilir ya da mevcut anketleri "
-"düzenleyebilirsiniz."
+msgstr "Burada yeni Anket soruları ekleyebilir ya da mevcut anketleri düzenleyebilirsiniz."
 
 #: familyconnections/inc/alerts_class.php:184
-msgid ""
-"If you do not want to use Polls on your site, simply delete all existing "
-"polls and they will no longer show up on the frontpage."
-msgstr ""
-"Sitenizde Anket kullanmak istemiyorsanız mevcut anketlerin tamamını silin - "
-"artık ön sayfada anket gösterilmez."
+msgid "If you do not want to use Polls on your site, simply delete all existing polls and they will no longer show up on the frontpage."
+msgstr "Sitenizde Anket kullanmak istemiyorsanız mevcut anketlerin tamamını silin - artık ön sayfada anket gösterilmez."
 
 #: familyconnections/inc/alerts_class.php:186
 #: familyconnections/inc/alerts_class.php:222
@@ -3188,12 +3019,8 @@ msgid "It looks like your address is incomplete."
 msgstr "Görünüşe bakılırsa adresiniz tam değil."
 
 #: familyconnections/inc/alerts_class.php:220
-msgid ""
-"The other website members would appreciate it if you would complete your "
-"address information.  This will help them stay in touch."
-msgstr ""
-"Adres bilgilerinizi tamamlarsanız sitenin diğer üyeleri size minnettar "
-"olacak. Bu bilgiler iletişime geçmelerini kolaylaştıracak."
+msgid "The other website members would appreciate it if you would complete your address information.  This will help them stay in touch."
+msgstr "Adres bilgilerinizi tamamlarsanız sitenin diğer üyeleri size minnettar olacak. Bu bilgiler iletişime geçmelerini kolaylaştıracak."
 
 #: familyconnections/inc/alerts_class.php:221
 msgid "Complete Address Now"
@@ -3204,20 +3031,12 @@ msgid "Important info about FCMS Scheduler."
 msgstr "FCMS Zamanlayıcı hakkında bilgi"
 
 #: familyconnections/inc/alerts_class.php:256
-msgid ""
-"FCMS Scheduler is a replacement for cron.  If your host supports cron, you "
-"should disable the FCMS Scheduler and use cron instead."
-msgstr ""
-"FCMS Zamanlayıcı cron yerine kullanılabilir. Eğer internet sunucunuz cron "
-"destekliyorsa FCMS Zamanlayıcıyı devredışı bırakıp cron kullanın."
+msgid "FCMS Scheduler is a replacement for cron.  If your host supports cron, you should disable the FCMS Scheduler and use cron instead."
+msgstr "FCMS Zamanlayıcı cron yerine kullanılabilir. Eğer internet sunucunuz cron destekliyorsa FCMS Zamanlayıcıyı devredışı bırakıp cron kullanın."
 
 #: familyconnections/inc/alerts_class.php:257
-msgid ""
-"FCMS Scheduler can NOT guarantee that the scheduled tasks will complete on "
-"the desired intervals."
-msgstr ""
-"FCMS Zamanlayıcı ayarlanan görevlerin istenen aralıklarla gerçekleşeceğini "
-"garanti EDEMEZ."
+msgid "FCMS Scheduler can NOT guarantee that the scheduled tasks will complete on the desired intervals."
+msgstr "FCMS Zamanlayıcı ayarlanan görevlerin istenen aralıklarla gerçekleşeceğini garanti EDEMEZ."
 
 #: familyconnections/inc/awards_class.php:90
 msgid "This user has no awards yet."
@@ -3228,14 +3047,12 @@ msgid "Invalid Member/Award."
 msgstr "Geçersiz Üye/Ödül."
 
 #: familyconnections/inc/awards_class.php:173
-#, php-format
 msgid "%s has been given this award %d time."
 msgid_plural "%s has been given this award %d times."
 msgstr[0] "%s adlı üyeye bu ödül %d kez verildi."
 msgstr[1] "%s adlı üyeye bu ödül %d kez verildi."
 
 #: familyconnections/inc/awards_class.php:178
-#, php-format
 msgid "You have been given this award %d time."
 msgid_plural "You have been given this award %d times."
 msgstr[0] "Bu ödül size %d kez verildi."
@@ -3243,61 +3060,51 @@ msgstr[1] "Bu ödül size %d kez verildi."
 
 #: familyconnections/inc/awards_class.php:207
 #: familyconnections/inc/awards_class.php:222
-#, php-format
 msgctxt "Ex: December, 2011 - 10 posts"
 msgid "%s - %s posts"
 msgstr "%s - %s ileti"
 
 #: familyconnections/inc/awards_class.php:212
-#, php-format
 msgctxt "Ex: December, 2011 - 10 photos"
 msgid "%s - %s photos"
 msgstr "%s - %s fotoğraf"
 
 #: familyconnections/inc/awards_class.php:217
-#, php-format
 msgctxt "Ex: December, 2011 - 10 recipes"
 msgid "%s - %s recipes"
 msgstr "%s - %s tarif"
 
 #: familyconnections/inc/awards_class.php:227
-#, php-format
 msgctxt "Ex: December, 2011 - 10 documents"
 msgid "%s - %s documents"
 msgstr "%s - %s belge"
 
 #: familyconnections/inc/awards_class.php:233
-#, php-format
 msgctxt "Ex: 21 replies"
 msgid "%d replies"
 msgstr "%d yanıt"
 
 #: familyconnections/inc/awards_class.php:242
-#, php-format
 msgctxt "Ex: 210 views"
 msgid "%d views"
 msgstr "%d kez görüntülenmiş"
 
 #: familyconnections/inc/awards_class.php:254
-#, php-format
 msgctxt "Ex: 21 comments"
 msgid "%d comments"
 msgstr "%d yorum"
 
 #: familyconnections/inc/awards_class.php:274
-#, php-format
 msgctxt "Ex: 210 private messages"
 msgid "%d private messages"
 msgstr "%d özel Iletiler"
 
 #: familyconnections/inc/awards_class.php:281
-#, php-format
 msgctxt "Ex: 53 events"
 msgid "%d events"
 msgstr "%d etkinlik"
 
 #: familyconnections/inc/awards_class.php:288
-#, php-format
 msgctxt "Ex: 53 photos"
 msgid "%d photos"
 msgstr "%d fotoğraf"
@@ -3391,12 +3198,8 @@ msgid "BBCode Help"
 msgstr "BBCode Yardımı"
 
 #: familyconnections/inc/bbcode.php:35
-msgid ""
-"BBCode is a easy way to format text. Check out the examples below, the first "
-"line shows the bbcode and the second line show the output."
-msgstr ""
-"BBCode metni düzenlemek için kolay bir yoldur. Aşağıdaki örneklere bakın; "
-"ilk satırda BBCode, ikincide de sonuç gösterilmekte."
+msgid "BBCode is a easy way to format text. Check out the examples below, the first line shows the bbcode and the second line show the output."
+msgstr "BBCode metni düzenlemek için kolay bir yoldur. Aşağıdaki örneklere bakın; ilk satırda BBCode, ikincide de sonuç gösterilmekte."
 
 #: familyconnections/inc/bbcode.php:36
 msgid "Available BBCodes"
@@ -3531,7 +3334,6 @@ msgstr "l, F j, Y"
 #: familyconnections/inc/calendar_class.php:908
 #: familyconnections/inc/calendar_class.php:1052
 #: familyconnections/inc/calendar_class.php:1547
-#, php-format
 msgid "%s turns %s today."
 msgstr "%s bugün %s yaşına basıyor."
 
@@ -3626,19 +3428,16 @@ msgid "F j"
 msgstr "F j"
 
 #: familyconnections/inc/calendar_class.php:1435
-#, php-format
 msgid "Every year on %s"
 msgstr "Her yıl %s"
 
 #: familyconnections/inc/calendar_class.php:1444
 #: familyconnections/invitation.php:189
-#, php-format
 msgid "beginning at %s"
 msgstr "başlangıcı %s"
 
 #: familyconnections/inc/calendar_class.php:1449
 #: familyconnections/invitation.php:194
-#, php-format
 msgid "between %s and %s"
 msgstr "%s ile %s arasında"
 
@@ -3652,7 +3451,6 @@ msgid "Host"
 msgstr "Sunucu"
 
 #: familyconnections/inc/calendar_class.php:1525
-#, php-format
 msgid "Every year on %s, since %s."
 msgstr "Her yıl %s tarihinde; başlangıcı %s."
 
@@ -4099,12 +3897,10 @@ msgid "Delete this Comment"
 msgstr "Bu Yorumu sil"
 
 #: familyconnections/inc/cron.php:353
-#, php-format
 msgid "Filter: %s."
 msgstr "Filtre: %s."
 
 #: familyconnections/inc/Database.php:110
-#, php-format
 msgid "Could not connect to host [%s] with user [%s]."
 msgstr "[%s] sunucusuna [%s] kullanıcısı ile bağlantı yapılamadı."
 
@@ -4367,42 +4163,36 @@ msgid "right now"
 msgstr "hemen şimdi"
 
 #: familyconnections/inc/datetime.php:310
-#, php-format
 msgid "%s second ago"
 msgid_plural "%s seconds ago"
 msgstr[0] "%s saniye önce"
 msgstr[1] "%s saniye önce"
 
 #: familyconnections/inc/datetime.php:321
-#, php-format
 msgid "%s minute ago"
 msgid_plural "%s minutes ago"
 msgstr[0] "%s dakika önce"
 msgstr[1] "%s dakika önce"
 
 #: familyconnections/inc/datetime.php:332
-#, php-format
 msgid "%s hour ago"
 msgid_plural "%s hours ago"
 msgstr[0] "%s saat önce"
 msgstr[1] "%s saat önce"
 
 #: familyconnections/inc/datetime.php:343
-#, php-format
 msgid "%s day ago"
 msgid_plural "%s days ago"
 msgstr[0] "%s gün önce"
 msgstr[1] "%s gün önce"
 
 #: familyconnections/inc/datetime.php:354
-#, php-format
 msgid "%s month ago"
 msgid_plural "%s months ago"
 msgstr[0] "%s ay önce"
 msgstr[1] "%s ay önce"
 
 #: familyconnections/inc/datetime.php:365
-#, php-format
 msgid "%s year ago"
 msgid_plural "%s years ago"
 msgstr[0] "%s yıl önce"
@@ -4461,9 +4251,7 @@ msgid "Document too large."
 msgstr "Belge çok büyük."
 
 #: familyconnections/inc/documents_class.php:207
-#, php-format
-msgid ""
-"Document %s exceeds the maximum file size allowed by your PHP settings."
+msgid "Document %s exceeds the maximum file size allowed by your PHP settings."
 msgstr "%s adlı belge PHP ayarlarında belirlenen dosya boyutunu aşıyor."
 
 #: familyconnections/inc/documents_class.php:217
@@ -4472,15 +4260,11 @@ msgstr "Belge Geçersiz"
 
 #: familyconnections/inc/documents_class.php:218
 msgid "Documents must be of type (.doc, .txt, .xsl, .zip, .rtf, .ppt, .pdf)."
-msgstr ""
-"Kabul edilen dosya tipleri: .doc, .txt, .xsl, .zip, .rtf, .ppt, .pdf."
+msgstr "Kabul edilen dosya tipleri: .doc, .txt, .xsl, .zip, .rtf, .ppt, .pdf."
 
 #: familyconnections/inc/documents_class.php:232
-#, php-format
-msgid ""
-"Document %s already exists!  Please change the filename and try again."
-msgstr ""
-"%s adlı belge zaten mevcut! Dosya adını değiştirin ya da yeniden deneyin."
+msgid "Document %s already exists!  Please change the filename and try again."
+msgstr "%s adlı belge zaten mevcut! Dosya adını değiştirin ya da yeniden deneyin."
 
 #: familyconnections/inc/familynews_class.php:63
 msgid "M. j"
@@ -4532,7 +4316,6 @@ msgstr "Bu Aile Haberini sil"
 
 #: familyconnections/inc/familynews_class.php:210
 #: familyconnections/inc/familynews_class.php:514
-#, php-format
 msgid "Originally from %s, %s."
 msgstr "Özgün biçiminin kaynağı %s, %s."
 
@@ -4554,7 +4337,6 @@ msgid "Edit News"
 msgstr "Haberi Düzenle"
 
 #: familyconnections/inc/familynews_class.php:607
-#, php-format
 msgid "Invalid url [%s]."
 msgstr "URL geçersiz [%s]."
 
@@ -4607,7 +4389,6 @@ msgid "Born"
 msgstr "Doğum"
 
 #: familyconnections/inc/FamilyTree.php:617
-#, php-format
 msgctxt "Ex: age 30"
 msgid "age %d"
 msgstr "yaş %d"
@@ -4617,7 +4398,6 @@ msgid "Passed Away"
 msgstr "Vefat"
 
 #: familyconnections/inc/FamilyTree.php:663
-#, php-format
 msgctxt "Ex: at age ~81"
 msgid "at age %s"
 msgstr "%s yaşında"
@@ -4671,12 +4451,8 @@ msgstr "Ebeveynler hayatta."
 
 #: familyconnections/inc/FamilyTree.php:1602
 #: familyconnections/inc/FamilyTree.php:1614
-msgid ""
-"Please add only biological parents. Step parents should be added as spouses, "
-"not parents."
-msgstr ""
-"Yalnızca biyolojik ebeveynleri ekleyin. Üvey anne/baba ebeveyn değil ilgili "
-"kişinin eşi olarak kaydedilmeli."
+msgid "Please add only biological parents. Step parents should be added as spouses, not parents."
+msgstr "Yalnızca biyolojik ebeveynleri ekleyin. Üvey anne/baba ebeveyn değil ilgili kişinin eşi olarak kaydedilmeli."
 
 #: familyconnections/inc/FamilyTree.php:1613
 msgid "Parents already exist."
@@ -4691,40 +4467,30 @@ msgid "Mother already exists."
 msgstr "Anne hayatta."
 
 #: familyconnections/inc/FamilyTree.php:1626
-msgid ""
-"Please add only biological parents. Same-sex parents should be added as "
-"spouses, not parents."
-msgstr ""
-"Yalnızca biyolojik ebeveynleri ekleyin. Aynı cinsiyetten ebeveynler ilgili "
-"kişinin eşi olarak kaydedilmeli."
+msgid "Please add only biological parents. Same-sex parents should be added as spouses, not parents."
+msgstr "Yalnızca biyolojik ebeveynleri ekleyin. Aynı cinsiyetten ebeveynler ilgili kişinin eşi olarak kaydedilmeli."
 
 #: familyconnections/inc/FamilyTree.php:1957
-#, php-format
 msgid "Add New Father for %s"
 msgstr "%s için baba ekle"
 
 #: familyconnections/inc/FamilyTree.php:1963
-#, php-format
 msgid "Add New Mother for %s"
 msgstr "%s için anne ekle"
 
 #: familyconnections/inc/FamilyTree.php:1969
-#, php-format
 msgid "Add New Brother for %s"
 msgstr "%s için erkek kardeş ekle"
 
 #: familyconnections/inc/FamilyTree.php:1975
-#, php-format
 msgid "Add New Sister for %s"
 msgstr "%s için kızkardeş ekle"
 
 #: familyconnections/inc/FamilyTree.php:1981
-#, php-format
 msgid "Add New Spouse for %s"
 msgstr "%s için eş ekle"
 
 #: familyconnections/inc/FamilyTree.php:1987
-#, php-format
 msgid "Add New Child for %s"
 msgstr "%s için çocuk ekle"
 
@@ -4799,33 +4565,24 @@ msgid "Deceased Year"
 msgstr "Vefat Ettiği Yıl"
 
 #: familyconnections/inc/FamilyTree.php:2611
-msgid ""
-"Type is invalid, must be one of: father, mother, spouse, brother, sister, "
-"child."
-msgstr ""
-"Geçersiz tip; şunlardan biri olmalı: baba, anne, eş, erkek kardeş, "
-"kızkardeş, çocuk."
+msgid "Type is invalid, must be one of: father, mother, spouse, brother, sister, child."
+msgstr "Geçersiz tip; şunlardan biri olmalı: baba, anne, eş, erkek kardeş, kızkardeş, çocuk."
 
 #: familyconnections/inc/FamilyTree.php:2682
 msgid "Parents are of the same sex.  Must only add biological parents."
-msgstr ""
-"Ebeveynler aynı cinsiyetten. Yalnızca biyolojik ebeveynler eklenmeli."
+msgstr "Ebeveynler aynı cinsiyetten. Yalnızca biyolojik ebeveynler eklenmeli."
 
 #: familyconnections/inc/FamilyTree.php:2739
-msgid ""
-"Parents are of the same sex.  Children must be added to biological parents."
-msgstr ""
-"Ebeveynler aynı cinsiyetten. Çocuklar biyolojik ebeveynlere eklenmeli."
+msgid "Parents are of the same sex.  Children must be added to biological parents."
+msgstr "Ebeveynler aynı cinsiyetten. Çocuklar biyolojik ebeveynlere eklenmeli."
 
 #: familyconnections/inc/FormValidator.php:532
 #: familyconnections/inc/FormValidator.php:587
-#, php-format
 msgid "%s is missing."
 msgstr "%s eksik."
 
 #: familyconnections/inc/FormValidator.php:554
 #: familyconnections/inc/FormValidator.php:590
-#, php-format
 msgid "%s is invalid."
 msgstr "%s geçersiz."
 
@@ -4909,7 +4666,6 @@ msgid "The Photo you are trying to view can not be found."
 msgstr "Bakmak istediğiniz fotoğraf bulunamadı."
 
 #: familyconnections/inc/gallery_class.php:389
-#, php-format
 msgid "%d of %d"
 msgstr "%d / %d"
 
@@ -4923,12 +4679,10 @@ msgstr "ileten"
 
 #: familyconnections/inc/gallery_class.php:505
 #: familyconnections/inc/gallery_class.php:2690
-#, php-format
 msgid "Click to view more photos of %s."
 msgstr "%s - daha fazla fotoğraf görmek için tıklayın."
 
 #: familyconnections/inc/gallery_class.php:537
-#, php-format
 msgid "Currently %s/5 Starts"
 msgstr "Şu Anda %s/5 Yıldız"
 
@@ -4937,7 +4691,6 @@ msgstr "Şu Anda %s/5 Yıldız"
 #: familyconnections/inc/gallery_class.php:540
 #: familyconnections/inc/gallery_class.php:541
 #: familyconnections/inc/gallery_class.php:542
-#, php-format
 msgid "%s out of 5 Stars"
 msgstr "%s / 5 Yıldız"
 
@@ -4965,13 +4718,11 @@ msgstr "En Son Yorumlar"
 
 #: familyconnections/inc/gallery_class.php:718
 #: familyconnections/inc/gallery_class.php:1622
-#, php-format
 msgid "Photos of %s"
 msgstr "%s adlı kullanıcıdan fotoğraflar"
 
 #: familyconnections/inc/gallery_class.php:732
 #: familyconnections/inc/gallery_class.php:1704
-#, php-format
 msgid "Photos uploaded by %s"
 msgstr "Fotoğrafları yükleyen %s"
 
@@ -4993,7 +4744,6 @@ msgstr "M. j, Y g:i a"
 
 #: familyconnections/inc/gallery_class.php:1060
 #: familyconnections/inc/gallery_class.php:1061
-#, php-format
 msgid "View Categories for %s"
 msgstr "%s İçin Kategorilere Bak"
 
@@ -5007,7 +4757,6 @@ msgstr "Fotoğraflar"
 
 #: familyconnections/inc/gallery_class.php:1152
 #: familyconnections/inc/gallery_class.php:1153
-#, php-format
 msgid "View Photos in %s"
 msgstr "%s İçindeki Fotoğraflara Bak"
 
@@ -5033,7 +4782,6 @@ msgid "Members In Category"
 msgstr "Kategorideki Üyeler"
 
 #: familyconnections/inc/gallery_class.php:1454
-#, php-format
 msgid "Currently %d/5 Stars."
 msgstr "Şu Anda %d/5 Yıldız."
 
@@ -5111,13 +4859,8 @@ msgstr "Fotoğraf bozuk ya da kayıp."
 #: familyconnections/inc/gallery_class.php:2324
 #: familyconnections/inc/upimages.php:150
 #: familyconnections/inc/Upload/Photo.php:122
-#, php-format
-msgid ""
-"Photo [%s] is not a supported photo type.  Photos must be of type (.jpg, "
-".jpeg, .gif, .bmp or .png)."
-msgstr ""
-"Fotoğraf [%s] desteklenen bir görüntü tipi değil. Kabul edilen dosya "
-"türleri: .jpg, .jpeg, .gif, .bmp ya da .png."
+msgid "Photo [%s] is not a supported photo type.  Photos must be of type (.jpg, .jpeg, .gif, .bmp or .png)."
+msgstr "Fotoğraf [%s] desteklenen bir görüntü tipi değil. Kabul edilen dosya türleri: .jpg, .jpeg, .gif, .bmp ya da .png."
 
 #: familyconnections/inc/gallery_class.php:2366
 msgid "The following photo was added successfully."
@@ -5144,7 +4887,6 @@ msgid "Tag Members In Photos"
 msgstr "Fotoğraflardaki Üyeleri Etiketle"
 
 #: familyconnections/inc/gallery_class.php:2853
-#, php-format
 msgid "%s has added a new photo."
 msgstr "%s yeni bir fotoğraf ekledi."
 
@@ -5211,7 +4953,6 @@ msgid "Welcome"
 msgstr "Hoşgeldiniz"
 
 #: familyconnections/inc/install_inc.php:802
-#, php-format
 msgid "Welcome to the %s Message Board."
 msgstr "%s Duyuru Panosuna Hoşgeldiniz."
 
@@ -5233,7 +4974,6 @@ msgid "h:ia"
 msgstr "h:ia"
 
 #: familyconnections/inc/messageboard_class.php:154
-#, php-format
 msgid "Today at %s"
 msgstr "Bugün saat: %s"
 
@@ -5241,12 +4981,10 @@ msgstr "Bugün saat: %s"
 #: familyconnections/inc/messageboard_class.php:167
 #: familyconnections/inc/messageboard_class.php:178
 #: familyconnections/privatemsg.php:449
-#, php-format
 msgid "by %s"
 msgstr "yazan %s"
 
 #: familyconnections/inc/messageboard_class.php:166
-#, php-format
 msgid "Yesterday at %s"
 msgstr "Dün saat: %s"
 
@@ -5317,7 +5055,6 @@ msgid "Make Announcement"
 msgstr "Duyuru Yap"
 
 #: familyconnections/inc/messageboard_class.php:643
-#, php-format
 msgid "Last post written by %s"
 msgstr "%s tarafından yazılan en son ileti"
 
@@ -5378,7 +5115,6 @@ msgid "Could not get poll information."
 msgstr "Anket bilgisi alınamadı."
 
 #: familyconnections/inc/Poll.php:239
-#, php-format
 msgid "%s votes"
 msgstr "%s oy"
 
@@ -5446,9 +5182,7 @@ msgstr "Kişisel Bilgileri Düzenle"
 
 #: familyconnections/inc/profile_class.php:67
 msgid "Use the links above to Edit the different sections of your profile."
-msgstr ""
-"Kimlik bilgilerinizin farklı bölümlerini düzenlemek için yukarıdaki "
-"bağlantıları kullanın."
+msgstr "Kimlik bilgilerinizin farklı bölümlerini düzenlemek için yukarıdaki bağlantıları kullanın."
 
 #: familyconnections/inc/profile_class.php:69
 #: familyconnections/profile.php:672
@@ -5531,7 +5265,6 @@ msgid "F j, Y, g:i a"
 msgstr "F j, Y, g:i a"
 
 #: familyconnections/inc/recipes_class.php:362
-#, php-format
 msgid "Submitted by %s on %s."
 msgstr "%s tarafından %s tarihinde iletildi."
 
@@ -5654,9 +5387,7 @@ msgid "What timezone do you live in?"
 msgstr "Hangi zaman diliminde yaşıyorsunuz?"
 
 #: familyconnections/inc/settings_class.php:295
-msgid ""
-"You will need to manually change this off and on if your City/Town makes use "
-"of DST."
+msgid "You will need to manually change this off and on if your City/Town makes use of DST."
 msgstr "Kentinizde DST kullanılıyorsa bunu kendiniz açıp kapatmalısınız."
 
 #: familyconnections/inc/settings_class.php:300
@@ -5698,12 +5429,8 @@ msgid "Recommended."
 msgstr "Önerilen."
 
 #: familyconnections/inc/settings_class.php:424
-msgid ""
-"Should work in most modern browsers. Allows you to upload multiple photos at "
-"once and very large photos."
-msgstr ""
-"Modern tarayıcıların çoğunda çalışır. Aynı anda birçok fotoğrafı ve büyük "
-"boyutlu fotoğrafları yüklemenizi sağlar."
+msgid "Should work in most modern browsers. Allows you to upload multiple photos at once and very large photos."
+msgstr "Modern tarayıcıların çoğunda çalışır. Aynı anda birçok fotoğrafı ve büyük boyutlu fotoğrafları yüklemenizi sağlar."
 
 #: familyconnections/inc/settings_class.php:427
 msgid "Java"
@@ -5711,20 +5438,15 @@ msgstr "Java"
 
 #: familyconnections/inc/settings_class.php:429
 msgid "Allows you to upload multiple photos at once and very large photos."
-msgstr ""
-"Aynı anda birçok fotoğrafı ve büyük boyutlu fotoğrafları yüklemenizi sağlar."
+msgstr "Aynı anda birçok fotoğrafı ve büyük boyutlu fotoğrafları yüklemenizi sağlar."
 
 #: familyconnections/inc/settings_class.php:432
 msgid "Basic"
 msgstr "Temel"
 
 #: familyconnections/inc/settings_class.php:434
-msgid ""
-"For older browsers. Uploads one photo at a time.  May not work for on very "
-"large photos."
-msgstr ""
-"Eski tarayıcılar için. Her bir seferde bir fotoğraf yüklenir. Çok büyük "
-"boyutlu fotoğraflarda çalışmayabilir."
+msgid "For older browsers. Uploads one photo at a time.  May not work for on very large photos."
+msgstr "Eski tarayıcılar için. Her bir seferde bir fotoğraf yüklenir. Çok büyük boyutlu fotoğraflarda çalışmayabilir."
 
 #: familyconnections/inc/settings_class.php:439
 msgid "Advanced Tagging"
@@ -5823,14 +5545,8 @@ msgid "You have moderation rights."
 msgstr "Düzenleme yapma hakkına sahipsiniz."
 
 #: familyconnections/inc/settings_class.php:663
-msgid ""
-"You have some access to add/change/delete information including your own.  "
-"This level is mostly used for message board moderation (i.e. cleanup of "
-"old/unused posts and other such information)."
-msgstr ""
-"Kendinizinki dahil olmak üzere bazı bilgileri ekleme/değiştirme/silme "
-"hakkına sahipsiniz. Bu düzey genellikle mesaj panosunun düzenlenmesi için "
-"kullanılır (yani eski/kullanılmamış iletileri silinmesi gibi)."
+msgid "You have some access to add/change/delete information including your own.  This level is mostly used for message board moderation (i.e. cleanup of old/unused posts and other such information)."
+msgstr "Kendinizinki dahil olmak üzere bazı bilgileri ekleme/değiştirme/silme hakkına sahipsiniz. Bu düzey genellikle mesaj panosunun düzenlenmesi için kullanılır (yani eski/kullanılmamış iletileri silinmesi gibi)."
 
 #: familyconnections/inc/settings_class.php:666
 #: familyconnections/inc/settings_class.php:698
@@ -5845,8 +5561,7 @@ msgstr "Temel haklara sahipsiniz."
 #: familyconnections/inc/settings_class.php:667
 #: familyconnections/inc/settings_class.php:699
 msgid "You can add/change/delete only your own information."
-msgstr ""
-"Yalnızca kendi bilgilerinizi ekleyebilir/değiştirebilir/silebilirsiniz."
+msgstr "Yalnızca kendi bilgilerinizi ekleyebilir/değiştirebilir/silebilirsiniz."
 
 #: familyconnections/inc/settings_class.php:670
 msgid "Level 4 (Non-Photographer)"
@@ -5862,22 +5577,16 @@ msgid "You have limited rights."
 msgstr "Sınırlı haklara sahipsiniz."
 
 #: familyconnections/inc/settings_class.php:671
-msgid ""
-"You have the same rights as a Member, except you cannot use the Photo "
-"Gallery."
-msgstr ""
-"Br üyeyle aynı haklara sahipsiniz, ama Fotoğraf Galerisini kullanamazsınız."
+msgid "You have the same rights as a Member, except you cannot use the Photo Gallery."
+msgstr "Br üyeyle aynı haklara sahipsiniz, ama Fotoğraf Galerisini kullanamazsınız."
 
 #: familyconnections/inc/settings_class.php:674
 msgid "Level 5 (Non-Poster)"
 msgstr "Düzey 5 (İleten Olmayan)"
 
 #: familyconnections/inc/settings_class.php:675
-msgid ""
-"You have the same rights as a Member, except you cannot use the Message "
-"Board."
-msgstr ""
-"Bir Üyeyle aynı haklara sahipsiniz ama Mesaj Panosunu kullanamazsınız."
+msgid "You have the same rights as a Member, except you cannot use the Message Board."
+msgstr "Bir Üyeyle aynı haklara sahipsiniz ama Mesaj Panosunu kullanamazsınız."
 
 #: familyconnections/inc/settings_class.php:678
 msgid "Level 6 (Commenter)"
@@ -5944,22 +5653,18 @@ msgid "Could not find new upgrade files."
 msgstr "Yeni yükseltme dosyaları bulunamadı."
 
 #: familyconnections/inc/upgrade_inc.php:243
-#, php-format
 msgid "Could not find origin: %s."
 msgstr "Köken bulunamadı: %s."
 
 #: familyconnections/inc/upgrade_inc.php:251
-#, php-format
 msgid "Destination not found and could not be created: %s."
 msgstr "Geliş yolu bulunamadı ve oluşturulamadı: %s."
 
 #: familyconnections/inc/upgrade_inc.php:259
-#, php-format
 msgid "Could not open directory: %s."
 msgstr "Dizin açılamadı: %s."
 
 #: familyconnections/inc/upgrade_inc.php:286
-#, php-format
 msgid "Could not copy file: %s."
 msgstr "Dosya kopyalanamadı: %s."
 
@@ -5975,7 +5680,6 @@ msgstr "Dosya kopyalanamadı: %s."
 #: familyconnections/inc/upgrade_inc.php:1982
 #: familyconnections/inc/upgrade_inc.php:2037
 #: familyconnections/inc/upgrade_inc.php:2266
-#, php-format
 msgid "Could not upgrade database to version %s."
 msgstr "Veritabanı %s sürümüne yükseltilemedi."
 
@@ -6096,8 +5800,7 @@ msgstr "Yükleme Hatası"
 #: familyconnections/inc/Upload/Destination.php:242
 #: familyconnections/inc/Upload/Destination.php:266
 #: familyconnections/inc/Upload/Destination.php:290
-msgid ""
-"GD Library is either not installed or does not support this file type."
+msgid "GD Library is either not installed or does not support this file type."
 msgstr "Ya GD betiği yüklü değil ya da bu dosya tipini desteklemiyor."
 
 #: familyconnections/inc/Upload/Destination.php:228
@@ -6110,13 +5813,8 @@ msgstr "Dosya yazılamadı; klasör izinlerini kontrol edin."
 #: familyconnections/inc/Upload/FamilyTree/Form/Java.php:48
 #: familyconnections/inc/Upload/PhotoGallery/Form/Java.php:67
 #: familyconnections/inc/Upload/Profile/Form/Java.php:46
-msgid ""
-"JavaScript must be enabled in order for you to use the Advanced Uploader. "
-"However, it seems JavaScript is either disabled or not supported by your "
-"browser."
-msgstr ""
-"İleri Düzey Yükleyici kullanmak için Javascript etkin olmalı. Javascript "
-"etkin değil ya da tarayıcınız tarafından desteklenmiyor."
+msgid "JavaScript must be enabled in order for you to use the Advanced Uploader. However, it seems JavaScript is either disabled or not supported by your browser."
+msgstr "İleri Düzey Yükleyici kullanmak için Javascript etkin olmalı. Javascript etkin değil ya da tarayıcınız tarafından desteklenmiyor."
 
 #: familyconnections/inc/Upload/FamilyTree/Form/Java.php:50
 #: familyconnections/inc/Upload/PhotoGallery/Form/Java.php:69
@@ -6128,11 +5826,9 @@ msgstr "Tarayıcı seçenekleriniz değiştirilerek Javascript devreye sokulmal�
 #: familyconnections/inc/Upload/PhotoGallery/Form/Java.php:71
 #: familyconnections/inc/Upload/Profile/Form/Java.php:50
 msgid "Enable the Basic Upload option by changing Your Settings."
-msgstr ""
-"Ayarlarım bölümüne giderek Basit Yükleme seçeneğini işaretleyebilirsiniz."
+msgstr "Ayarlarım bölümüne giderek Basit Yükleme seçeneğini işaretleyebilirsiniz."
 
 #: familyconnections/inc/Upload/FamilyTree/Form.php:58
-#, php-format
 msgctxt "%s is a persons full name"
 msgid "Picture for %s"
 msgstr "%s resmi"
@@ -6165,12 +5861,8 @@ msgid "Not connected to Facebook."
 msgstr "Facebook ile bağlantı yok."
 
 #: familyconnections/inc/Upload/PhotoGallery/Form/Facebook.php:78
-msgid ""
-"You must connect your Family Connections account to Facebook before you can "
-"begin importing photos from Facebook."
-msgstr ""
-"Facebook üzerinden fotoğraf aktarmak için Family Connections ile Facebook "
-"bağlantısı yapılmalı."
+msgid "You must connect your Family Connections account to Facebook before you can begin importing photos from Facebook."
+msgstr "Facebook üzerinden fotoğraf aktarmak için Family Connections ile Facebook bağlantısı yapılmalı."
 
 #: familyconnections/inc/Upload/PhotoGallery/Form/Facebook.php:79
 msgid "Connect to Facebook"
@@ -6196,12 +5888,8 @@ msgid "Not connected to Instagram."
 msgstr "Instagram ile bağlantı yok."
 
 #: familyconnections/inc/Upload/PhotoGallery/Form/Instagram.php:103
-msgid ""
-"You must connect your Family Connections account to Instagram before you can "
-"begin importing photos from Instagram."
-msgstr ""
-"Instagram üzerinden fotoğraf almaya başlamadan önce Instagram ile Family "
-"Connections hesabınızı ilişkilendirmelisiniz."
+msgid "You must connect your Family Connections account to Instagram before you can begin importing photos from Instagram."
+msgstr "Instagram üzerinden fotoğraf almaya başlamadan önce Instagram ile Family Connections hesabınızı ilişkilendirmelisiniz."
 
 #: familyconnections/inc/Upload/PhotoGallery/Form/Instagram.php:104
 msgid "Connect to Instagram"
@@ -6220,7 +5908,6 @@ msgid "Choose photo to add."
 msgstr "Eklenecek fotoğrafı seçin."
 
 #: familyconnections/inc/Upload/PhotoGallery/Form/Instagram.php:159
-#, php-format
 msgid "Instagram filter: %s."
 msgstr "Instragram filtresi: %s."
 
@@ -6266,12 +5953,8 @@ msgid "Not connected to Google."
 msgstr "Google ile bağlantı yok."
 
 #: familyconnections/inc/Upload/PhotoGallery/Form/Picasa.php:54
-msgid ""
-"You must connect your Family Connections account to Google before you can "
-"begin importing photos from Google."
-msgstr ""
-"Google üzerinden fotoğraf aktarmak için Family Connectins ile Google "
-"bağlantısı yaılmalı."
+msgid "You must connect your Family Connections account to Google before you can begin importing photos from Google."
+msgstr "Google üzerinden fotoğraf aktarmak için Family Connectins ile Google bağlantısı yaılmalı."
 
 #: familyconnections/inc/Upload/PhotoGallery/Form/Picasa.php:55
 #: familyconnections/video.php:220
@@ -6291,9 +5974,7 @@ msgid "You must choose a Picasa Web Album selected."
 msgstr "Bir Picasa Web Albümü seçilmiş olmalı."
 
 #: familyconnections/inc/Upload/Photo.php:89
-#, php-format
-msgid ""
-"Your photo exceeds the maximum size allowed by your PHP settings [%s]."
+msgid "Your photo exceeds the maximum size allowed by your PHP settings [%s]."
 msgstr "Fotoğraf PHP ayarlarında belirlenen boyutu [%s] aşıyor."
 
 #: familyconnections/inc/Upload/Photo.php:100
@@ -6325,12 +6006,8 @@ msgid "Out of Memory Warning"
 msgstr "Yetersiz Bellek Uyarısı"
 
 #: familyconnections/inc/Upload/Photo.php:532
-msgid ""
-"The photo you are trying to upload is quite large and the server might run "
-"out of memory if you continue."
-msgstr ""
-"Yüklemek istediğiniz dosyanın boyutu çok fazla ve devam edilirse bellek "
-"yetersiz kalabilir."
+msgid "The photo you are trying to upload is quite large and the server might run out of memory if you continue."
+msgstr "Yüklemek istediğiniz dosyanın boyutu çok fazla ve devam edilirse bellek yetersiz kalabilir."
 
 #: familyconnections/inc/Upload/Profile/Form.php:57
 msgid "Change Avatar"
@@ -6373,7 +6050,6 @@ msgid "Choose Avatar"
 msgstr "Simgeresim Seç"
 
 #: familyconnections/inc/User.php:59
-#, php-format
 msgid "Could not get information for user [%s]."
 msgstr "Kullanıcı [%s] için bilgi alınamadı."
 
@@ -6601,13 +6277,8 @@ msgid "Close Message"
 msgstr "Mesajı Kapat"
 
 #: familyconnections/inc/utils.php:2467 familyconnections/inc/utils.php:2473
-#, php-format
-msgid ""
-"Error: File %s is not a photo.  Photos must be of type (.JPG, .JPEG, .GIF, "
-".BMP or .PNG)."
-msgstr ""
-"Hata: Dosya %s fotoğraf değil. İzin verilen dosya türleri: JPG, .JPEG, .GIF, "
-".BMP ya da .PNG"
+msgid "Error: File %s is not a photo.  Photos must be of type (.JPG, .JPEG, .GIF, .BMP or .PNG)."
+msgstr "Hata: Dosya %s fotoğraf değil. İzin verilen dosya türleri: JPG, .JPEG, .GIF, .BMP ya da .PNG"
 
 #: familyconnections/inc/utils.php:2583
 msgid "First Page"
@@ -6648,12 +6319,8 @@ msgstr "Foursquare doğru yapılandırılmadı."
 
 #: familyconnections/inc/utils.php:3487
 #: familyconnections/whereiseveryone.php:66
-msgid ""
-"The \"Where Is Everyone\" feature cannot work without Foursquare.  Please "
-"configure Foursquare or turn off \"Where Is Everyone\"."
-msgstr ""
-"Herkes Nerede özelliği Foursquare olmadan çalışmaz. Ya Foursquare "
-"yapılandırmasını yapın ya da Herkes Nerede bölümünü kapalı hale getirin."
+msgid "The \"Where Is Everyone\" feature cannot work without Foursquare.  Please configure Foursquare or turn off \"Where Is Everyone\"."
+msgstr "Herkes Nerede özelliği Foursquare olmadan çalışmaz. Ya Foursquare yapılandırmasını yapın ya da Herkes Nerede bölümünü kapalı hale getirin."
 
 #: familyconnections/inc/utils.php:3488
 msgid "Configure Foursquare"
@@ -6885,29 +6552,19 @@ msgstr "Yazdığınız bilgiler doğru değil."
 
 #: familyconnections/index.php:514
 msgid "Be sure and check that you typed your username/password correctly."
-msgstr ""
-"Kullanıcı adınızı / şifrenizi kontrol ederek doğru yazdığınızdan emin olun."
+msgstr "Kullanıcı adınızı / şifrenizi kontrol ederek doğru yazdığınızdan emin olun."
 
 #: familyconnections/index.php:594
-msgid ""
-"Your account hasn't been connected to Facebook yet.  You need to connect "
-"your existing account with Facebook or register a new account using Facebook."
-msgstr ""
-"Hesabınız henüz Facebook ile bağlantılı değil. Mevcut hesabınızı Facebook "
-"ile bağlantılı hale getirmeniz ya da Facebook kullanarak yeni bir hesap "
-"edinmeniz gerekiyor."
+msgid "Your account hasn't been connected to Facebook yet.  You need to connect your existing account with Facebook or register a new account using Facebook."
+msgstr "Hesabınız henüz Facebook ile bağlantılı değil. Mevcut hesabınızı Facebook ile bağlantılı hale getirmeniz ya da Facebook kullanarak yeni bir hesap edinmeniz gerekiyor."
 
 #: familyconnections/index.php:629
 msgid "Not So Fast"
 msgstr "O Kadar Hızlı Değil"
 
 #: familyconnections/index.php:631
-msgid ""
-"Your account isn't active yet.  Your website administrator must activate "
-"your account before you can login and begin using the website."
-msgstr ""
-"Hesabınız henüz etkinleştirilmedi. Giriş yapıp siteyi kullanabilmeniz için "
-"yöneticinin hesabınızı etkinleştirmesi gerekiyor."
+msgid "Your account isn't active yet.  Your website administrator must activate your account before you can login and begin using the website."
+msgstr "Hesabınız henüz etkinleştirilmedi. Giriş yapıp siteyi kullanabilmeniz için yöneticinin hesabınızı etkinleştirmesi gerekiyor."
 
 #: familyconnections/index.php:651
 msgid "You have exceeded the number of allowed login attempts."
@@ -6926,14 +6583,8 @@ msgid "Wait a Minute."
 msgstr "Bekleyin."
 
 #: familyconnections/install.php:151
-msgid ""
-"The installation for this site is already finished. Running the installation "
-"again will cause you to Lose All Your Previous Information.  Are you sure "
-"you want to continue?"
-msgstr ""
-"The installation for this site is already finished. Running the installation "
-"again will cause you to Lose All Your Previous Information.  Are you sure "
-"you want to continue?"
+msgid "The installation for this site is already finished. Running the installation again will cause you to Lose All Your Previous Information.  Are you sure you want to continue?"
+msgstr "The installation for this site is already finished. Running the installation again will cause you to Lose All Your Previous Information.  Are you sure you want to continue?"
 
 #: familyconnections/install.php:155
 msgid "I just want to view my site."
@@ -6975,16 +6626,11 @@ msgstr "Checking Folder Permissions"
 
 #: familyconnections/install.php:266
 msgid "Your site is ready to be installed.  Please proceed to the next step."
-msgstr ""
-"Your site is ready to be installed.  Please proceed to the next step."
+msgstr "Your site is ready to be installed.  Please proceed to the next step."
 
 #: familyconnections/install.php:273
-msgid ""
-"Unfortunatly your site is not ready to be installed.  Please make sure that "
-"the folders above exist and have the proper permissions set."
-msgstr ""
-"Unfortunatly your site is not ready to be installed.  Please make sure that "
-"the folders above exist and have the proper permissions set."
+msgid "Unfortunatly your site is not ready to be installed.  Please make sure that the folders above exist and have the proper permissions set."
+msgstr "Unfortunatly your site is not ready to be installed.  Please make sure that the folders above exist and have the proper permissions set."
 
 #: familyconnections/install.php:292 familyconnections/install.php:410
 #: familyconnections/install.php:439 familyconnections/install.php:588
@@ -7006,7 +6652,6 @@ msgid "Sorry, but I can't install without this information."
 msgstr "Sorry, but I can't install without this information."
 
 #: familyconnections/install.php:327
-#, php-format
 msgid "The database name where you want to install %s."
 msgstr "The database name where you want to install %s."
 
@@ -7056,12 +6701,8 @@ msgid "Awesome!"
 msgstr "Harika!"
 
 #: familyconnections/install.php:420
-msgid ""
-"A connection was successfully made to the database.  Please proceed to the "
-"next step."
-msgstr ""
-"A connection was successfully made to the database.  Please proceed to the "
-"next step."
+msgid "A connection was successfully made to the database.  Please proceed to the next step."
+msgstr "A connection was successfully made to the database.  Please proceed to the next step."
 
 #: familyconnections/install.php:440
 msgid "Website Information"
@@ -7088,12 +6729,8 @@ msgid "Without a name, how will you tell people about your website?"
 msgstr "Without a name, how will you tell people about your website?"
 
 #: familyconnections/install.php:459
-msgid ""
-"The email address you want all questions, comments and concerns about the "
-"site to go."
-msgstr ""
-"The email address you want all questions, comments and concerns about the "
-"site to go."
+msgid "The email address you want all questions, comments and concerns about the site to go."
+msgstr "The email address you want all questions, comments and concerns about the site to go."
 
 #: familyconnections/install.php:465
 msgid "That's not a valid emaill address is it?"
@@ -7116,32 +6753,22 @@ msgid "Step 5 of 5"
 msgstr "Step 5 of 5"
 
 #: familyconnections/install.php:593
-msgid ""
-"Everyone will be required to have an account and be logged in at all times "
-"to use this website.  This will help protect your site."
-msgstr ""
-"Everyone will be required to have an account and be logged in at all times "
-"to use this website.  This will help protect your site."
+msgid "Everyone will be required to have an account and be logged in at all times to use this website.  This will help protect your site."
+msgstr "Everyone will be required to have an account and be logged in at all times to use this website.  This will help protect your site."
 
 #: familyconnections/install.php:594
-msgid ""
-"You must have at least one administrative account.  Please fill out the "
-"information below for the person who will be the administrator of this site."
-msgstr ""
-"You must have at least one administrative account.  Please fill out the "
-"information below for the person who will be the administrator of this site."
+msgid "You must have at least one administrative account.  Please fill out the information below for the person who will be the administrator of this site."
+msgstr "You must have at least one administrative account.  Please fill out the information below for the person who will be the administrator of this site."
 
 #: familyconnections/install.php:733
 msgid "Hooray!  Yippie!"
 msgstr "Hooray!  Yippie!"
 
 #: familyconnections/install.php:734
-#, php-format
 msgid "%s has been installed successfully."
 msgstr "%s has been installed successfully."
 
 #: familyconnections/install.php:735
-#, php-format
 msgid "Please continue to the homepage to login and begin using %s."
 msgstr "Please continue to the homepage to login and begin using %s."
 
@@ -7178,9 +6805,7 @@ msgid "Who's Coming"
 msgstr "Kimler Geliyor"
 
 #: familyconnections/lostpw.php:56
-msgid ""
-"Your email address could not be found.  Please make sure you have entered it "
-"correctly."
+msgid "Your email address could not be found.  Please make sure you have entered it correctly."
 msgstr "Eposta adresiniz bulunamadı. Doğru yazdığınızdan emin olun."
 
 #: familyconnections/lostpw.php:95
@@ -7188,7 +6813,6 @@ msgid "Password Reset"
 msgstr "Şifreyi Sıfırla"
 
 #: familyconnections/lostpw.php:99
-#, php-format
 msgid "Your password at %s has been reset."
 msgstr "%s Şifreniz Sıfırlandı."
 
@@ -7241,7 +6865,6 @@ msgid "Participation Points"
 msgstr "Katılım Puanları"
 
 #: familyconnections/members.php:266 familyconnections/profile.php:443
-#, php-format
 msgid "%s years old"
 msgstr "%s yaşında"
 
@@ -7250,12 +6873,10 @@ msgid "M. j, Y (g:i a)"
 msgstr "M. j, Y (g:i a)"
 
 #: familyconnections/messageboard.php:308 familyconnections/rss.php:181
-#, php-format
 msgid "%s started the new thread %s."
 msgstr "%s yeni konu başlattı: %s."
 
 #: familyconnections/messageboard.php:414
-#, php-format
 msgid "%s has replied to the thread: %s"
 msgstr "%s konuyu yanıtladı: %s"
 
@@ -7263,7 +6884,6 @@ msgstr "%s konuyu yanıtladı: %s"
 #: familyconnections/messageboard.php:933
 #: familyconnections/messageboard.php:1126
 #: familyconnections/messageboard.php:1133
-#, php-format
 msgid "Invalid Date [%s]"
 msgstr "Tarih Geçersiz [%s]"
 
@@ -7295,7 +6915,6 @@ msgstr "Okundu Olarak İşaretle"
 
 #: familyconnections/notifications.php:210
 #: familyconnections/notifications.php:365
-#, php-format
 msgid "%s has added a photo of you."
 msgstr "%s sizin bir fotoğrafınızı ekledi."
 
@@ -7304,7 +6923,6 @@ msgid "Unread Notifications"
 msgstr "Okunmamış Bildirimler"
 
 #: familyconnections/polls.php:235
-#, php-format
 msgid "Comments (%s)"
 msgstr "Yorum (%s)"
 
@@ -7334,7 +6952,6 @@ msgid "Pray For"
 msgstr "Pray For"
 
 #: familyconnections/prayers.php:216
-#, php-format
 msgid "%s added a new Prayer Concern for %s"
 msgstr "%s için yeni bir Dua eklendi %s"
 
@@ -7363,7 +6980,6 @@ msgid "Delete this Prayer Concern"
 msgstr "Bu Dua Konusunu Sil"
 
 #: familyconnections/prayers.php:483
-#, php-format
 msgid "%s asks that you please pray for..."
 msgstr "%s asks that you please pray for..."
 
@@ -7376,7 +6992,6 @@ msgid "Inbox"
 msgstr "Gelen Kutusu"
 
 #: familyconnections/privatemsg.php:115 familyconnections/privatemsg.php:600
-#, php-format
 msgid "Inbox (%d)"
 msgstr "Gelen iletiler (%d)"
 
@@ -7393,12 +7008,10 @@ msgid "Send"
 msgstr "Gönder"
 
 #: familyconnections/privatemsg.php:298
-#, php-format
 msgid "A new Private Message at %s"
 msgstr "%s - Yeni Özel Mesaj"
 
 #: familyconnections/privatemsg.php:310
-#, php-format
 msgid "%s has sent you a new Private Message at %s"
 msgstr "%s %s üzerinde size bir Özel Mesaj gönderdi."
 
@@ -7407,11 +7020,8 @@ msgid "The message has been attached below."
 msgstr "Mesaj aşağıda ekli."
 
 #: familyconnections/privatemsg.php:314
-#, php-format
 msgid "To respond to this message either visit %s or respond to this email."
-msgstr ""
-"Mesaja yanıt vermek için ya %s bağlantısını kullanın ya da bu eposta "
-"iletisini yanıtlayın."
+msgstr "Mesaja yanıt vermek için ya %s bağlantısını kullanın ya da bu eposta iletisini yanıtlayın."
 
 #: familyconnections/privatemsg.php:318
 msgid "From"
@@ -7422,9 +7032,7 @@ msgid "Message Title"
 msgstr "Mesaj Başlığı"
 
 #: familyconnections/privatemsg.php:421 familyconnections/privatemsg.php:491
-msgid ""
-"The PM you are trying to view either doesn't exist or you don't have "
-"permission to view it."
+msgid "The PM you are trying to view either doesn't exist or you don't have permission to view it."
 msgstr "Bakmaya çalıştığınız ÖM mevcut değil ya da okuma yetkiniz yok."
 
 #: familyconnections/privatemsg.php:440 familyconnections/privatemsg.php:500
@@ -7432,7 +7040,6 @@ msgid "n/j/Y g:i a"
 msgstr "n/j/Y g:i a"
 
 #: familyconnections/privatemsg.php:509
-#, php-format
 msgid "to %s"
 msgstr "%s için"
 
@@ -7453,7 +7060,6 @@ msgid "Quick Links"
 msgstr "Hızlı Bağlantılar"
 
 #: familyconnections/profile.php:233
-#, php-format
 msgctxt "%s is the name of a person. Photos of Bill. etc."
 msgid "Photos Of %s"
 msgstr "%s fotoğrafları"
@@ -7475,7 +7081,6 @@ msgid "Cell"
 msgstr "Cep"
 
 #: familyconnections/profile.php:410
-#, php-format
 msgctxt "%s is the name of a person. Call Bob. etc."
 msgid "Call %s"
 msgstr "Arama yap - %s"
@@ -7505,20 +7110,14 @@ msgid "Latest Photos"
 msgstr "En Yeni Fotoğraflar"
 
 #: familyconnections/recipes.php:226 familyconnections/recipes.php:588
-#, php-format
-msgid ""
-"Thumbnail [%s] is not a supported type. Thumbnails must be of type (.jpg, "
-".jpeg, .gif, .bmp or .png)."
-msgstr ""
-"Küçük resim [%s] desteklenen bir tür değil. Desteklenen türler: .jpg, .jpeg, "
-".gif, .bmp ya da .png."
+msgid "Thumbnail [%s] is not a supported type. Thumbnails must be of type (.jpg, .jpeg, .gif, .bmp or .png)."
+msgstr "Küçük resim [%s] desteklenen bir tür değil. Desteklenen türler: .jpg, .jpeg, .gif, .bmp ya da .png."
 
 #: familyconnections/recipes.php:240 familyconnections/recipes.php:602
 msgid "There was an error uploading your thumbnail."
 msgstr "Küçük resim yüklenemedi."
 
 #: familyconnections/recipes.php:293
-#, php-format
 msgid "%s has added the recipe: %s"
 msgstr "%s bu tarifi ekledi: %s"
 
@@ -7527,7 +7126,6 @@ msgid "Change Thumbnail"
 msgstr "Küçük Resmi Değiştir"
 
 #: familyconnections/register.php:88
-#, php-format
 msgctxt "%s is the name of the website"
 msgid "Register for %s."
 msgstr "%s için kayıt."
@@ -7557,9 +7155,7 @@ msgid "You forgot to fill out a required field."
 msgstr "Gerekli bir alanı tamamlamayı unuttunuz."
 
 #: familyconnections/register.php:220
-msgid ""
-"The email you have choosen is already in use.  Please choose a different "
-"email."
+msgid "The email you have choosen is already in use.  Please choose a different email."
 msgstr "Seçtiğiniz eposta adresi zaten kullanımda. Farklı bir adres seçin."
 
 #: familyconnections/register.php:220
@@ -7567,8 +7163,7 @@ msgid "If you have forgotten your password please reset it"
 msgstr "Şifrenizi unuttuysanız sıfırlayın."
 
 #: familyconnections/register.php:244
-msgid ""
-"Sorry, but that username is already taken.  Please choose another username."
+msgid "Sorry, but that username is already taken.  Please choose another username."
 msgstr "Bu kullanıcı adı zaten alındı. Başka bir ad seçin."
 
 #: familyconnections/register.php:315
@@ -7576,35 +7171,26 @@ msgid "Membership"
 msgstr "Üyelik"
 
 #: familyconnections/register.php:341
-#, php-format
 msgid "Thank you for registering at %s"
 msgstr "%s sitesine kayıt olduğunuz için teşekkürler."
 
 #: familyconnections/register.php:343
-msgid ""
-"In order to login and begin using the site, your administrator must activate "
-"your account.  You will get an email when this has been done."
-msgstr ""
-"In order to login and begin using the site, your administrator must activate "
-"your account.  You will get an email when this has been done."
+msgid "In order to login and begin using the site, your administrator must activate your account.  You will get an email when this has been done."
+msgstr "In order to login and begin using the site, your administrator must activate your account.  You will get an email when this has been done."
 
 #: familyconnections/register.php:345
-msgid ""
-"After your account is activated you can login using the following information"
-msgstr ""
-"Hesabınız etkinleştirildikten sonra şu bilgilerle giriş yapabilirsiniz"
+msgid "After your account is activated you can login using the following information"
+msgstr "Hesabınız etkinleştirildikten sonra şu bilgilerle giriş yapabilirsiniz"
 
 #: familyconnections/register.php:355 familyconnections/register.php:558
 msgid "Congratulations and Welcome"
 msgstr "Tebrikler ve Merhaba"
 
 #: familyconnections/register.php:357 familyconnections/register.php:560
-#, php-format
 msgid "You have been successfully registered at %s."
 msgstr "%s sitesine kaydınız tamamlandı."
 
 #: familyconnections/register.php:358 familyconnections/register.php:561
-#, php-format
 msgid "Your account information has been emailed to %s."
 msgstr "Hesap bilgileriniz %s adresine gönderildi."
 
@@ -7613,20 +7199,14 @@ msgid "Please remember your username and password for this site."
 msgstr "Bu site için kullanıcı adınızı ve şifrenizi unutmayın."
 
 #: familyconnections/register.php:361
-msgid ""
-"Unfortunately your account must be activated before you can  <a "
-"href=\"index.php\">login</a> and begin using the site."
-msgstr ""
-"Hesabınızı etkinleştirdikten sonra <a href=\"index.php\">giriş yapın</a> ve "
-"siteyi kullanmaya başlayın."
+msgid "Unfortunately your account must be activated before you can  <a href=\"index.php\">login</a> and begin using the site."
+msgstr "Hesabınızı etkinleştirdikten sonra <a href=\"index.php\">giriş yapın</a> ve siteyi kullanmaya başlayın."
 
 #: familyconnections/register.php:368
-#, php-format
 msgid "New User Registration at %s"
 msgstr "%s Sitesinde Yeni Kayıt"
 
 #: familyconnections/register.php:369
-#, php-format
 msgid "A new user has registered at %s"
 msgstr "%s sitesinde yeni bir üye kayıt oldu."
 
@@ -7679,12 +7259,8 @@ msgid "Please click the following link to activate your account"
 msgstr "Hesabınızı etkinleştirmek için aşağıdaki bağlantıyı tıklayın"
 
 #: familyconnections/register.php:564
-msgid ""
-"Unfortunately you must activate your account before you can <a "
-"href=\"index.php\">login</a> and begin using the site"
-msgstr ""
-"Hesabınızı etkinleştirdikten sonra <a href=\"index.php\">giriş yapın</a> ve "
-"siteyi kullanmaya başlayın."
+msgid "Unfortunately you must activate your account before you can <a href=\"index.php\">login</a> and begin using the site"
+msgstr "Hesabınızı etkinleştirdikten sonra <a href=\"index.php\">giriş yapın</a> ve siteyi kullanmaya başlayın."
 
 #: familyconnections/register.php:608 familyconnections/settings.php:1115
 msgid "Facebook isn't Configured Yet."
@@ -7695,22 +7271,18 @@ msgid "The RSS feed you requested doesn't exist"
 msgstr "İstediğiniz RSS besleme mevcut değil"
 
 #: familyconnections/rss.php:139
-#, php-format
 msgid "%s has added address information for %s."
 msgstr "%s %s için adres bilgisi ekledi."
 
 #: familyconnections/rss.php:146
-#, php-format
 msgid "%s has updated his/her address."
 msgstr "%s adres bilgisini güncelledi."
 
 #: familyconnections/rss.php:153
-#, php-format
 msgid "%s has changed his/her picture."
 msgstr "%s resmini değiştirdi."
 
 #: familyconnections/rss.php:185
-#, php-format
 msgid "%s replied to %s."
 msgstr "%s %s için yanıt oluşturdu."
 
@@ -7719,77 +7291,62 @@ msgid "m-d-y"
 msgstr "a-g-y"
 
 #: familyconnections/rss.php:197
-#, php-format
 msgid "%s has added a new Calendar entry on %s for %s."
 msgstr "%s yeni bir Takvim girdisini (%s) %s için ekledi."
 
 #: familyconnections/rss.php:211
-#, php-format
 msgid "%s commented on (%s)."
 msgstr "%s %s için yorum yazdı."
 
 #: familyconnections/rss.php:218
-#, php-format
 msgid "%s commented on the following photo:"
 msgstr "%s şu fotoğrafı yorumladı:"
 
 #: familyconnections/rss.php:225
-#, php-format
 msgid "%s has added %d new photos to the %s category."
 msgstr "%s %d yeni fotoğrafı %s kategorisine ekledi."
 
 #: familyconnections/rss.php:232
-#, php-format
 msgid "%s has joined the website."
 msgstr "%s siteye katıldı."
 
 #: familyconnections/rss.php:239
-#, php-format
 msgid "%s has added %s to his/her Family News."
 msgstr "%s Aile Haberlerine %s ekledi."
 
 #: familyconnections/rss.php:246
-#, php-format
 msgid "%s commented on Family News %s."
 msgstr "%s %s Aile Haberlerini yorumladı."
 
 #: familyconnections/rss.php:252
-#, php-format
 msgid "A new Poll (%s) has been added."
 msgstr "Yeni bir Anket (%s) eklendi."
 
 #: familyconnections/rss.php:259
-#, php-format
 msgid "%s commented on Poll %s."
 msgstr "%s %s anketini yorumladı."
 
 #: familyconnections/rss.php:266
-#, php-format
 msgid "%s has added a Prayer Concern for %s."
 msgstr "%s has added a Prayer Concern for %s."
 
 #: familyconnections/rss.php:273
-#, php-format
 msgid "%s has added the recipe %s."
 msgstr "%s %s tarifini ekledi."
 
 #: familyconnections/rss.php:280
-#, php-format
 msgid "%s commented on Recipe %s."
 msgstr "%s %s tarifini yorumladı."
 
 #: familyconnections/rss.php:294
-#, php-format
 msgid "%s has added a the video %s."
 msgstr "%s %s videosunu ekledi."
 
 #: familyconnections/rss.php:301
-#, php-format
 msgid "%s commented on the video %s."
 msgstr "%s %s videosunu yorumladı."
 
 #: familyconnections/rss.php:308
-#, php-format
 msgid "%s visited %s."
 msgstr "%s tarafından %s ziyaret edildi."
 
@@ -7815,8 +7372,7 @@ msgstr "Sosyal Medya"
 
 #: familyconnections/settings.php:446
 msgid "To complete your changes, you must logout and log back in again."
-msgstr ""
-"Değişikliklerinizi kaydetmek için çıkış yapıp yeniden giriş yapmalısınız."
+msgstr "Değişikliklerinizi kaydetmek için çıkış yapıp yeniden giriş yapmalısınız."
 
 #: familyconnections/settings.php:447
 #: familyconnections/ui/themes/blue-chrome/templates/global/header.php:24
@@ -7833,17 +7389,14 @@ msgid "Are you sure you want to DELETE this theme?"
 msgstr "Are you sure you want to DELETE this theme?"
 
 #: familyconnections/settings.php:528
-#, php-format
 msgid "Theme [%s] not found."
 msgstr "Tema [%s] bulunamadı."
 
 #: familyconnections/settings.php:537
-#, php-format
 msgid "[%s] is not a directory."
 msgstr "[%s] bir dizin değil."
 
 #: familyconnections/settings.php:546
-#, php-format
 msgid "Could not delete theme [%s]."
 msgstr "Tema [%s] silinemedi."
 
@@ -7852,7 +7405,6 @@ msgid "Nothing to import."
 msgstr "İçeri aktaracak birşey yok."
 
 #: familyconnections/settings.php:928
-#, php-format
 msgid "%d post has been imported."
 msgid_plural "%d posts have been imported."
 msgstr[0] "%d ileti içeri aktarıldı."
@@ -7860,7 +7412,6 @@ msgstr[1] "%d ileti içeri aktarıldı."
 
 #: familyconnections/settings.php:1024 familyconnections/settings.php:1186
 #: familyconnections/settings.php:1312 familyconnections/settings.php:1521
-#, php-format
 msgid "Currently connected as: %s"
 msgstr "Şu anda %s olarak bağlandı."
 
@@ -7892,8 +7443,7 @@ msgid "Share status updates from this site to Facebook."
 msgstr "Bu siteden Facebook'a durum güncellemelerini güncelle."
 
 #: familyconnections/settings.php:1116
-msgid ""
-"Unfortunately, your website administrator has not set up Facebook yet."
+msgid "Unfortunately, your website administrator has not set up Facebook yet."
 msgstr "Site yöneticisi Facebook ayarlarını henüz gerçekleştirmedi."
 
 #: familyconnections/settings.php:1200
@@ -7917,8 +7467,7 @@ msgid "Instagram isn't Configured Yet."
 msgstr "Henüz Instagram ayarları yapılmadı."
 
 #: familyconnections/settings.php:1393
-msgid ""
-"Unfortunately, your website administrator has not set up Instagram yet."
+msgid "Unfortunately, your website administrator has not set up Instagram yet."
 msgstr "Site yöneticisi henüz Instagram ayarlarını yapmadı."
 
 #: familyconnections/settings.php:1442
@@ -7930,12 +7479,8 @@ msgid "Unfortunately, your website administrator has not set up Google yet."
 msgstr "Web sitesi yöneticisi Google ayarlarını henüz oluşturmadı."
 
 #: familyconnections/settings.php:1444
-msgid ""
-"You will not be able to upload photos from Picasa or upload videos from "
-"YouTube, until this is complete."
-msgstr ""
-"Bu tamamlanana kadar Picasa'dan fotoğraf ya da YouTube'dan video "
-"yükleyemezsiniz."
+msgid "You will not be able to upload photos from Picasa or upload videos from YouTube, until this is complete."
+msgstr "Bu tamamlanana kadar Picasa'dan fotoğraf ya da YouTube'dan video yükleyemezsiniz."
 
 #: familyconnections/settings.php:1541
 msgid "Connecting with Google will allow you to:"
@@ -8046,26 +7591,16 @@ msgid "How do I email multiple people (Mass Email)?"
 msgstr "Birden fazla kişiye nasıl eposta gösteririm (Toplu Eposta)?"
 
 #: familyconnections/ui/themes/default/templates/help/address-book.php:10
-msgid ""
-"Check the checkboxes to the right of the email addresses of the members you "
-"want to email."
-msgstr ""
-"Eposta göndermek istediğiniz üyelerin eposta adresinin sağındaki kutuları "
-"tıklayın."
+msgid "Check the checkboxes to the right of the email addresses of the members you want to email."
+msgstr "Eposta göndermek istediğiniz üyelerin eposta adresinin sağındaki kutuları tıklayın."
 
 #: familyconnections/ui/themes/default/templates/help/address-book.php:11
-msgid ""
-"Click the <b>Email</b> button at the bottom right hand corner of the address "
-"book."
+msgid "Click the <b>Email</b> button at the bottom right hand corner of the address book."
 msgstr "Adres defterinin sağ köşesindeki <b>Eposta</b> yazısını tıklayın."
 
 #: familyconnections/ui/themes/default/templates/help/address-book.php:12
-msgid ""
-"Fill out the email form (similar to the contact form) and click <b>Send Mass "
-"Email</b>."
-msgstr ""
-"Eposta formunu bulun (iletişim formuna benzer) ve <b>Toplu Eposta Gönder</b> "
-"yazısını tıklayın."
+msgid "Fill out the email form (similar to the contact form) and click <b>Send Mass Email</b>."
+msgstr "Eposta formunu bulun (iletişim formuna benzer) ve <b>Toplu Eposta Gönder</b> yazısını tıklayın."
 
 #: familyconnections/ui/themes/default/templates/help/administration.php:5
 #: familyconnections/ui/themes/default/templates/help/administration.php:14
@@ -8088,96 +7623,48 @@ msgid "How do I protect my photos from un-authorized users?"
 msgstr "Fotoğraflarımı yetkisiz kullanıcılardan nasıl korurum?"
 
 #: familyconnections/ui/themes/default/templates/help/administration.php:15
-msgid ""
-"Family Connections has ten different member access levels.  These levels are "
-"meant to limit the amount of access each family member has to the website."
-msgstr ""
-"Family Connections içinde on farklı üye erişim düzeyi bulunmakta. Bu "
-"düzeyler her bir üyenin siteye erişim yetkisini belirlemek için kullanılır."
+msgid "Family Connections has ten different member access levels.  These levels are meant to limit the amount of access each family member has to the website."
+msgstr "Family Connections içinde on farklı üye erişim düzeyi bulunmakta. Bu düzeyler her bir üyenin siteye erişim yetkisini belirlemek için kullanılır."
 
 #: familyconnections/ui/themes/default/templates/help/administration.php:17
-msgid ""
-"this is the access level given to the account that was setup during the "
-"installation of FCMS. This is the only level that has the ability to change "
-"other members access levels. This level can add, update and delete all "
-"information on the site."
-msgstr ""
-"FCMS kurulumu esnasında belirlenen hesap düzeyi. Bir tek bu düzey üyelerin "
-"erişim düzeyini değiştirebilir. Bu düzey sitedeki tüm bilgileri silebilir, "
-"değiştirebilir; bilgi ekleyebilir."
+msgid "this is the access level given to the account that was setup during the installation of FCMS. This is the only level that has the ability to change other members access levels. This level can add, update and delete all information on the site."
+msgstr "FCMS kurulumu esnasında belirlenen hesap düzeyi. Bir tek bu düzey üyelerin erişim düzeyini değiştirebilir. Bu düzey sitedeki tüm bilgileri silebilir, değiştirebilir; bilgi ekleyebilir."
 
 #: familyconnections/ui/themes/default/templates/help/administration.php:18
-msgid ""
-"this access level has all the same priveleges of the Member level, but can "
-"also run the latest awards, can add, update and delete poll questions, and "
-"add, update and delete message board posts."
-msgstr ""
-"Üye düzeyi ile aynı yetkileri taşır ama aynı zamanda en son ödülleri "
-"verebilir, anket sorularını ekleyebilir, silebilir ya da güncelleyebilir, "
-"mesaj panosu iletilerini ekleyebilir, silebilir ya da güncelleyebilir."
+msgid "this access level has all the same priveleges of the Member level, but can also run the latest awards, can add, update and delete poll questions, and add, update and delete message board posts."
+msgstr "Üye düzeyi ile aynı yetkileri taşır ama aynı zamanda en son ödülleri verebilir, anket sorularını ekleyebilir, silebilir ya da güncelleyebilir, mesaj panosu iletilerini ekleyebilir, silebilir ya da güncelleyebilir."
 
 #: familyconnections/ui/themes/default/templates/help/administration.php:19
 msgid "Member (default)"
 msgstr "Üye (varsayılan)"
 
 #: familyconnections/ui/themes/default/templates/help/administration.php:19
-msgid ""
-"this access level can add, update and delete all information they have "
-"contributed to the site. They have view only access to other member's "
-"information."
-msgstr ""
-"bu erişim düzeyi siteye bilgi ekleyebilir ve bu bilgileri güncelleyip "
-"silebilir. Yalnızca başka üyelerin bilgilerini görebilir."
+msgid "this access level can add, update and delete all information they have contributed to the site. They have view only access to other member's information."
+msgstr "bu erişim düzeyi siteye bilgi ekleyebilir ve bu bilgileri güncelleyip silebilir. Yalnızca başka üyelerin bilgilerini görebilir."
 
 #: familyconnections/ui/themes/default/templates/help/administration.php:20
-msgid ""
-"this access level has all the same priveleges of the Member level, but "
-"cannot add, update or delete photos from the Photo Gallery."
-msgstr ""
-"bu erişim düzeyi Üye düzeyiyle aynı yetkilere sahiptir, ama Fotoğraf "
-"Galerisine fotoğraf ekleyemez, buradan fotoğraf düzenleyemez ya da silemez."
+msgid "this access level has all the same priveleges of the Member level, but cannot add, update or delete photos from the Photo Gallery."
+msgstr "bu erişim düzeyi Üye düzeyiyle aynı yetkilere sahiptir, ama Fotoğraf Galerisine fotoğraf ekleyemez, buradan fotoğraf düzenleyemez ya da silemez."
 
 #: familyconnections/ui/themes/default/templates/help/administration.php:21
-msgid ""
-"this access level has all the same priveleges of the Member level, but "
-"cannot add, update or delete posts from the Message Board."
-msgstr ""
-"bu erişim düzeyi Üye düzeyi ile aynı yetkilere sahiptir ama Mesaj Panosuna "
-"mesaj ekleyemez, buradaki mesajları düzenleyemez ya da silemez."
+msgid "this access level has all the same priveleges of the Member level, but cannot add, update or delete posts from the Message Board."
+msgstr "bu erişim düzeyi Üye düzeyi ile aynı yetkilere sahiptir ama Mesaj Panosuna mesaj ekleyemez, buradaki mesajları düzenleyemez ya da silemez."
 
 #: familyconnections/ui/themes/default/templates/help/administration.php:22
-msgid ""
-"this access level can only add comments to Photos, Family News and can reply "
-"to posts on the Message Board.  Has view access to all other sections."
-msgstr ""
-"bu erişim düzeyi yalnızca Fotoğraflara, Aile Haberlerine yorum ekleyebilir "
-"ve Mesaj Panosundaki iletilere yanıt verebilir. Diğer tüm bölümlere bakma "
-"yetkisi vardır."
+msgid "this access level can only add comments to Photos, Family News and can reply to posts on the Message Board.  Has view access to all other sections."
+msgstr "bu erişim düzeyi yalnızca Fotoğraflara, Aile Haberlerine yorum ekleyebilir ve Mesaj Panosundaki iletilere yanıt verebilir. Diğer tüm bölümlere bakma yetkisi vardır."
 
 #: familyconnections/ui/themes/default/templates/help/administration.php:23
-msgid ""
-"this access level can add, update and delete their own Message Board posts "
-"only.  Has view access to all other sections."
-msgstr ""
-"bu erişim düzeyi yalnızca Mesaj Panosuna mesaj ekleyebilir ve kendi "
-"eklediklerini değiştirip silebilir. Diğer tüm bölümleri görme hakkına "
-"sahiptir."
+msgid "this access level can add, update and delete their own Message Board posts only.  Has view access to all other sections."
+msgstr "bu erişim düzeyi yalnızca Mesaj Panosuna mesaj ekleyebilir ve kendi eklediklerini değiştirip silebilir. Diğer tüm bölümleri görme hakkına sahiptir."
 
 #: familyconnections/ui/themes/default/templates/help/administration.php:24
-msgid ""
-"this access level can add, update and delete their own Photos only.  Has "
-"view access to all other sections."
-msgstr ""
-"bu erişim düzeyi yalnızca kendi fotoğraflarını ekleyebilir, güncelleyebilir "
-"ya da silebilir. Diğer tüm bölümleri görme hakkına sahiptir."
+msgid "this access level can add, update and delete their own Photos only.  Has view access to all other sections."
+msgstr "bu erişim düzeyi yalnızca kendi fotoğraflarını ekleyebilir, güncelleyebilir ya da silebilir. Diğer tüm bölümleri görme hakkına sahiptir."
 
 #: familyconnections/ui/themes/default/templates/help/administration.php:25
-msgid ""
-"this access level can add, update and delete their own Family News entries "
-"only.  Has view access to all other sections."
-msgstr ""
-"bu erişim düzeyi yalnızca kendi Aile Haberleri girdilerini ekleyebilir ve "
-"bunları güncelleyip silebilir. Diğer tüm bölümleri görme hakkına sahiptir."
+msgid "this access level can add, update and delete their own Family News entries only.  Has view access to all other sections."
+msgstr "bu erişim düzeyi yalnızca kendi Aile Haberleri girdilerini ekleyebilir ve bunları güncelleyip silebilir. Diğer tüm bölümleri görme hakkına sahiptir."
 
 #: familyconnections/ui/themes/default/templates/help/administration.php:26
 msgid "this access level has view only access to the site."
@@ -8246,30 +7733,16 @@ msgid "Has limited access to Administration"
 msgstr "Yönetime sınırlı erişim var"
 
 #: familyconnections/ui/themes/default/templates/help/administration.php:143
-msgid ""
-"Family Connections has three optional sections: Family News, Prayer Concerns "
-"and Recipes.  In order to use these sections you must first add them to the "
-"site (some sections may have been previously added during installation).  "
-"Adding an optional section, allows that section to be used in the <a "
-"href=\"#adm-sections-nav\">site navigation</a>."
-msgstr ""
-"Family Conectıons içinde isteğe bağlı üç bölüm bulunur: Aile Haberleri, Dua "
-"Konuları ve Yemek Tarifleri. Bu bölümleri kullanmak için önce siteye "
-"eklemeniz gerekir (bazıları kurulum esnasında önceden eklenmiş olabilir). "
-"İsteğe bağlı bir bölüm eklendiğinde bu bölüm <a href=\"#adm-sections-"
-"nav\">site dolaşımı</a>na dahil olur."
+msgid "Family Connections has three optional sections: Family News, Prayer Concerns and Recipes.  In order to use these sections you must first add them to the site (some sections may have been previously added during installation).  Adding an optional section, allows that section to be used in the <a href=\"#adm-sections-nav\">site navigation</a>."
+msgstr "Family Conectıons içinde isteğe bağlı üç bölüm bulunur: Aile Haberleri, Dua Konuları ve Yemek Tarifleri. Bu bölümleri kullanmak için önce siteye eklemeniz gerekir (bazıları kurulum esnasında önceden eklenmiş olabilir). İsteğe bağlı bir bölüm eklendiğinde bu bölüm <a href=\"#adm-sections-nav\">site dolaşımı</a>na dahil olur."
 
 #: familyconnections/ui/themes/default/templates/help/administration.php:144
 msgid "To add an optional section:"
 msgstr "İsteğe bağlı bir bölüm eklemek için:"
 
 #: familyconnections/ui/themes/default/templates/help/administration.php:146
-msgid ""
-"Click the <a href=\"admin/config.php\">Configuration</a> link on the "
-"Administration sub menu"
-msgstr ""
-"Yönetim alt mönüsündeki<a href=\"admin/config.php\">Yapılandırma</a> "
-"bağlantısını tıklayın"
+msgid "Click the <a href=\"admin/config.php\">Configuration</a> link on the Administration sub menu"
+msgstr "Yönetim alt mönüsündeki<a href=\"admin/config.php\">Yapılandırma</a> bağlantısını tıklayın"
 
 #: familyconnections/ui/themes/default/templates/help/administration.php:147
 msgid "Expand the <u>Sections</u> by clicking the <b>Show/Hide</b> link."
@@ -8280,51 +7753,24 @@ msgid "Click the <b>Add</b> link beside the section you want to add."
 msgstr "Ekemek istediğiniz bölümün yanındaki <b>Ekle</b> yazısını tıklayın."
 
 #: familyconnections/ui/themes/default/templates/help/administration.php:150
-msgid ""
-"Note: If a section has been previously added it will say \"Already Added\" "
-"beside the section."
-msgstr ""
-"Not: Eğer bir bölüm zaten eklendiyse yanında Zaten Eklendi yazısı yer alır."
+msgid "Note: If a section has been previously added it will say \"Already Added\" beside the section."
+msgstr "Not: Eğer bir bölüm zaten eklendiyse yanında Zaten Eklendi yazısı yer alır."
 
 #: familyconnections/ui/themes/default/templates/help/administration.php:159
-msgid ""
-"You can only change the navigation position of a few of the sections.  They "
-"are:  Family News, Prayer Concerns, Recipes and Calendar.  The navigation is "
-"broken down into two parts, (1) the Top Navigation and the (2) the Side "
-"Navigation.  The Top Navigation can hold links for up to 6 sections."
-msgstr ""
-"Birkaç bölümün yalnızca dolaşımdaki konumunu değiştirebilirsiniz; bunlar: "
-"Aile Haberleri, Dua Konuları, Yemek Tarifleri ve Takvim. Dolaşım ikiye "
-"ayrılır: (1) Üst Dolaşım ve (2) Yan Dolaşım. Üst dolaşımda en fazla 6 bölüm "
-"için bağlantı olabilir."
+msgid "You can only change the navigation position of a few of the sections.  They are:  Family News, Prayer Concerns, Recipes and Calendar.  The navigation is broken down into two parts, (1) the Top Navigation and the (2) the Side Navigation.  The Top Navigation can hold links for up to 6 sections."
+msgstr "Birkaç bölümün yalnızca dolaşımdaki konumunu değiştirebilirsiniz; bunlar: Aile Haberleri, Dua Konuları, Yemek Tarifleri ve Takvim. Dolaşım ikiye ayrılır: (1) Üst Dolaşım ve (2) Yan Dolaşım. Üst dolaşımda en fazla 6 bölüm için bağlantı olabilir."
 
 #: familyconnections/ui/themes/default/templates/help/administration.php:168
-msgid ""
-"In all versions of Family Connections prior to 3.0, the photos in the Photo "
-"Gallery are viewable to users outside of your website, without being logged "
-"in. A non-authorized user would have to guess the location of these photos, "
-"but they still could see them, if they guessed correctly."
-msgstr ""
-"Family Connectıons yazılımının 3.0 sürümünden önce Fotpğraf Galerisindeki "
-"fotpğraflar siteye giriş yapmayanlar tarafından da görülebiliyordu. Yetkili "
-"olmayan bir kişinin bu fotoğrafların konumunu tahmin etmesi gerekmekteydi "
-"ama tahminleri doğru çıktığında da bunları görebiliyorlardı."
+msgid "In all versions of Family Connections prior to 3.0, the photos in the Photo Gallery are viewable to users outside of your website, without being logged in. A non-authorized user would have to guess the location of these photos, but they still could see them, if they guessed correctly."
+msgstr "Family Connectıons yazılımının 3.0 sürümünden önce Fotpğraf Galerisindeki fotpğraflar siteye giriş yapmayanlar tarafından da görülebiliyordu. Yetkili olmayan bir kişinin bu fotoğrafların konumunu tahmin etmesi gerekmekteydi ama tahminleri doğru çıktığında da bunları görebiliyorlardı."
 
 #: familyconnections/ui/themes/default/templates/help/administration.php:169
-msgid ""
-"To fix this, FCMS 3.0 added a way to hide the photos from outside users.  To "
-"do this:"
-msgstr ""
-"Bu sorunu gidermek için FCMS 3.0 fotoğrafları yetkisiz kullanıcılardan "
-"gizleme yöntemini getirdi. Bunu yapmak için:"
+msgid "To fix this, FCMS 3.0 added a way to hide the photos from outside users.  To do this:"
+msgstr "Bu sorunu gidermek için FCMS 3.0 fotoğrafları yetkisiz kullanıcılardan gizleme yöntemini getirdi. Bunu yapmak için:"
 
 #: familyconnections/ui/themes/default/templates/help/administration.php:172
-msgid ""
-"Edit the inc/config_inc.php file on your server. Add the following line just "
-"below the MySQL database information, but above the ?>:"
-msgstr ""
-"Sunucunuzda inc/confic_inc.php dosyasını düzenleyin. MySQL veritabanı "
-"bilgisinin altına - ama ?> simgesinin öncesine - şunu ekleyin:"
+msgid "Edit the inc/config_inc.php file on your server. Add the following line just below the MySQL database information, but above the ?>:"
+msgstr "Sunucunuzda inc/confic_inc.php dosyasını düzenleyin. MySQL veritabanı bilgisinin altına - ama ?> simgesinin öncesine - şunu ekleyin:"
 
 #: familyconnections/ui/themes/default/templates/help/administration.php:176
 msgid "Move the uploads directoy to the path you specified in step 1."
@@ -8335,11 +7781,8 @@ msgid "Welcome to the Help section."
 msgstr "Yardım bölümüne hoşgeldiniz."
 
 #: familyconnections/ui/themes/default/templates/help/home.php:3
-msgid ""
-"Browse the topics to the left to find help on the most frequently asked "
-"topics."
-msgstr ""
-"En sık sorulan sorular hakkında yardım almak için soldaki konuları tarayın."
+msgid "Browse the topics to the left to find help on the most frequently asked topics."
+msgstr "En sık sorulan sorular hakkında yardım almak için soldaki konuları tarayın."
 
 #: familyconnections/ui/themes/default/templates/help/home.php:5
 msgid "Need more help?"
@@ -8398,60 +7841,32 @@ msgid "How do I delete a category?"
 msgstr "Kategoriyi nasıl silerim?"
 
 #: familyconnections/ui/themes/default/templates/help/photo-gallery.php:17
-msgid ""
-"Each member of the website has his/her own Category on the Photo Gallery.  "
-"This category will not show up until that member creates a new sub-category "
-"and uploads at least one photo.  You can not upload photos until you have "
-"created a category.  It is best to create a new category each time you "
-"upload a new group of photos.  This helps create a more organized Photo "
-"Gallery."
-msgstr ""
-"Web sitesinin her bir üyesinin Fotoğraf Galerisinde kendi Kategorisi "
-"bulunur. Üye bir alt kategori oluşturup en az bir fotoğraf yükleyene kadar "
-"bu kategori görünmez.  Kategori oluşturmadan fotoğraf yüklenemez. Yeni bir "
-"fotoğraf grubu yüklerken en iyisi yeni bir kategori oluşturmaktır. Böylece "
-"Fotoğraf Galerisi daha düzenli kalır."
+msgid "Each member of the website has his/her own Category on the Photo Gallery.  This category will not show up until that member creates a new sub-category and uploads at least one photo.  You can not upload photos until you have created a category.  It is best to create a new category each time you upload a new group of photos.  This helps create a more organized Photo Gallery."
+msgstr "Web sitesinin her bir üyesinin Fotoğraf Galerisinde kendi Kategorisi bulunur. Üye bir alt kategori oluşturup en az bir fotoğraf yükleyene kadar bu kategori görünmez.  Kategori oluşturmadan fotoğraf yüklenemez. Yeni bir fotoğraf grubu yüklerken en iyisi yeni bir kategori oluşturmaktır. Böylece Fotoğraf Galerisi daha düzenli kalır."
 
 #: familyconnections/ui/themes/default/templates/help/photo-gallery.php:26
-msgid ""
-"Choose <a href=\"gallery/index.php?action=upload\">Upload Photos</a> from "
-"the <a href=\"gallery/index.php\">Photo Gallery</a> menu."
-msgstr ""
-"<a href=\"gallery/index.php?action=upload\">Fotoğraf Yükle</a> seçeneğini <a "
-"href=\"gallery/index.php\">Fotoğraf Galerisi</a> mönüsünden seçin."
+msgid "Choose <a href=\"gallery/index.php?action=upload\">Upload Photos</a> from the <a href=\"gallery/index.php\">Photo Gallery</a> menu."
+msgstr "<a href=\"gallery/index.php?action=upload\">Fotoğraf Yükle</a> seçeneğini <a href=\"gallery/index.php\">Fotoğraf Galerisi</a> mönüsünden seçin."
 
 #: familyconnections/ui/themes/default/templates/help/photo-gallery.php:27
 msgid "Choose a category from the drop down menu."
 msgstr "Açılır mönüden bir kategori seçin."
 
 #: familyconnections/ui/themes/default/templates/help/photo-gallery.php:28
-msgid ""
-"Note: You must have at least one category to upload photos. If you do not "
-"have a existing category you must add a category first."
-msgstr ""
-"Not: Fotoğrafların yükleneceği en az bir kategori olmalı. Mevcut kategoriniz "
-"yoksa önce kategori ekleyin."
+msgid "Note: You must have at least one category to upload photos. If you do not have a existing category you must add a category first."
+msgstr "Not: Fotoğrafların yükleneceği en az bir kategori olmalı. Mevcut kategoriniz yoksa önce kategori ekleyin."
 
 #: familyconnections/ui/themes/default/templates/help/photo-gallery.php:30
-msgid ""
-"Click the browse button to browse your computer for the desired photo to "
-"upload."
-msgstr ""
-"Yüklemeyi istediğiniz fotoğrafı bilgisayarınızda bulmak için arama düğmesini "
-"tıklayın."
+msgid "Click the browse button to browse your computer for the desired photo to upload."
+msgstr "Yüklemeyi istediğiniz fotoğrafı bilgisayarınızda bulmak için arama düğmesini tıklayın."
 
 #: familyconnections/ui/themes/default/templates/help/photo-gallery.php:30
-msgid ""
-"If the photo you are uploading needs rotated click 'Upload Options' and two "
-"radio buttons will drop in above the photo caption."
-msgstr ""
-"Yüklenecek fotoğrafın döndürülmesi gerekiyorsa 'Yükleme Seçenekleri' "
-"yazısını tıklayın; resmin yazısının üstünde iki tuş belirir."
+msgid "If the photo you are uploading needs rotated click 'Upload Options' and two radio buttons will drop in above the photo caption."
+msgstr "Yüklenecek fotoğrafın döndürülmesi gerekiyorsa 'Yükleme Seçenekleri' yazısını tıklayın; resmin yazısının üstünde iki tuş belirir."
 
 #: familyconnections/ui/themes/default/templates/help/photo-gallery.php:31
 msgid "Note: You must have JavaScript enabled to use the rotation feature."
-msgstr ""
-"Not: Fotoğraf döndürme özelliği içn Javascript engellenmemiş olmalıdır."
+msgstr "Not: Fotoğraf döndürme özelliği içn Javascript engellenmemiş olmalıdır."
 
 #: familyconnections/ui/themes/default/templates/help/photo-gallery.php:33
 msgid "Fill in the caption (description of the photo)."
@@ -8471,66 +7886,38 @@ msgid "Navigate to the photo you would like to edit."
 msgstr "Düzenlemek istediğiniz fotoğrafa gidin."
 
 #: familyconnections/ui/themes/default/templates/help/photo-gallery.php:46
-msgid ""
-"Click the edit button <img src=\"ui/themes/default/img/edit.gif\"/> located "
-"above the photo and to the right."
-msgstr ""
-"Fotoğrafın yukarısında sağda bulunan düzenle <img "
-"src=\"ui/themes/default/img/edit.gif\"/> simgesini tıklayın."
+msgid "Click the edit button <img src=\"ui/themes/default/img/edit.gif\"/> located above the photo and to the right."
+msgstr "Fotoğrafın yukarısında sağda bulunan düzenle <img src=\"ui/themes/default/img/edit.gif\"/> simgesini tıklayın."
 
 #: familyconnections/ui/themes/default/templates/help/photo-gallery.php:47
-msgid ""
-"To change the category: choose the new category from the dropdown menu above "
-"the photo."
-msgstr ""
-"Kategori değiştirmek için: fotoğrafın yukarısındaki açılıp mönüden yeni "
-"kategoriyi seçin."
+msgid "To change the category: choose the new category from the dropdown menu above the photo."
+msgstr "Kategori değiştirmek için: fotoğrafın yukarısındaki açılıp mönüden yeni kategoriyi seçin."
 
 #: familyconnections/ui/themes/default/templates/help/photo-gallery.php:47
-msgid ""
-"To edit/change the caption: make your changes in the text field area below "
-"the photo."
-msgstr ""
-"Açıklamayı düzenlemek/değiştirmek için: fotoğrafın altındaki alanda "
-"değişiklikleri yapın."
+msgid "To edit/change the caption: make your changes in the text field area below the photo."
+msgstr "Açıklamayı düzenlemek/değiştirmek için: fotoğrafın altındaki alanda değişiklikleri yapın."
 
 #: familyconnections/ui/themes/default/templates/help/photo-gallery.php:48
 msgid "Click the submit changes button to finish your changes."
 msgstr "Değişiklikleri bitirmek için Değişiklikleri Gönder tuşunu tıklayın."
 
 #: familyconnections/ui/themes/default/templates/help/photo-gallery.php:59
-msgid ""
-"Click the delete button <img src=\"ui/themes/default/img/delete.gif\"/> "
-"located above the photo and to the right."
-msgstr ""
-"Fotoğrafın yukarısında sağda bulunan sil <img "
-"src=\"ui/themes/default/img/delete.gif\"/> simgesini tıklayın."
+msgid "Click the delete button <img src=\"ui/themes/default/img/delete.gif\"/> located above the photo and to the right."
+msgstr "Fotoğrafın yukarısında sağda bulunan sil <img src=\"ui/themes/default/img/delete.gif\"/> simgesini tıklayın."
 
 #: familyconnections/ui/themes/default/templates/help/photo-gallery.php:60
-msgid ""
-"You will be prompted with a message asking if you are sure you want to "
-"delete that photo, click Ok."
-msgstr ""
-"Fotoğrafı silmeyi isteyip istemediğiniz sorulacak; Tamam yazısını tıklayın."
+msgid "You will be prompted with a message asking if you are sure you want to delete that photo, click Ok."
+msgstr "Fotoğrafı silmeyi isteyip istemediğiniz sorulacak; Tamam yazısını tıklayın."
 
 #: familyconnections/ui/themes/default/templates/help/photo-gallery.php:63
-msgid ""
-"Note: you can only delete your own photos.  Once you delete a photo it is "
-"gone forever, you cannot undo a delete."
-msgstr ""
-"Not: Yalnız kendi fotoğraflarınızı silebilirsiniz. Fotoğraflar kalıcı olarak "
-"silinir."
+msgid "Note: you can only delete your own photos.  Once you delete a photo it is gone forever, you cannot undo a delete."
+msgstr "Not: Yalnız kendi fotoğraflarınızı silebilirsiniz. Fotoğraflar kalıcı olarak silinir."
 
 #: familyconnections/ui/themes/default/templates/help/photo-gallery.php:73
 #: familyconnections/ui/themes/default/templates/help/photo-gallery.php:86
 #: familyconnections/ui/themes/default/templates/help/photo-gallery.php:99
-msgid ""
-"Choose <a href=\"gallery/index.php?action=category\">Create/Edit "
-"Category</a> from the <a href=\"gallery/index.php\">Photo Gallery</a> menu."
-msgstr ""
-"<a href=\"gallery/index.php?action=category\">Kategori "
-"Oluştur/Düzenle</a>seçeneğini <a href=\"gallery/index.php\"Fotoğraf "
-"Galerisi</a>mönüsünden seçin."
+msgid "Choose <a href=\"gallery/index.php?action=category\">Create/Edit Category</a> from the <a href=\"gallery/index.php\">Photo Gallery</a> menu."
+msgstr "<a href=\"gallery/index.php?action=category\">Kategori Oluştur/Düzenle</a>seçeneğini <a href=\"gallery/index.php\"Fotoğraf Galerisi</a>mönüsünden seçin."
 
 #: familyconnections/ui/themes/default/templates/help/photo-gallery.php:74
 msgid "Fill out the category name."
@@ -8545,8 +7932,7 @@ msgid "A list of previously created categories will be listed below."
 msgstr "Önceden oluşturulmuş kategorilerin listesi aşağıda gösterilecek."
 
 #: familyconnections/ui/themes/default/templates/help/photo-gallery.php:87
-msgid ""
-"Scroll down to the list of categories and find the one you want to change."
+msgid "Scroll down to the list of categories and find the one you want to change."
 msgstr "Kategori listesini tarayıp değiştirmek istediğinizi bulun."
 
 #: familyconnections/ui/themes/default/templates/help/photo-gallery.php:88
@@ -8554,25 +7940,16 @@ msgid "Make the desired change."
 msgstr "İstenen değişikliği yapın."
 
 #: familyconnections/ui/themes/default/templates/help/photo-gallery.php:89
-msgid ""
-"Click the edit button <img src=\"ui/themes/default/img/edit.gif\"/> located "
-"to the right of the category name."
-msgstr ""
-"Kategori adının sağında yer alan düzenle <img "
-"src=\"ui/themes/default/img/edit.gif\"/> tuşunu tıklayın."
+msgid "Click the edit button <img src=\"ui/themes/default/img/edit.gif\"/> located to the right of the category name."
+msgstr "Kategori adının sağında yer alan düzenle <img src=\"ui/themes/default/img/edit.gif\"/> tuşunu tıklayın."
 
 #: familyconnections/ui/themes/default/templates/help/photo-gallery.php:100
-msgid ""
-"Scroll down to the list of categories and find the one you want to delete."
+msgid "Scroll down to the list of categories and find the one you want to delete."
 msgstr "Kategori listesini tarayın ve silmek istediğinizi bulun."
 
 #: familyconnections/ui/themes/default/templates/help/photo-gallery.php:101
-msgid ""
-"Click the delete button <img src=\"ui/themes/default/img/delete.gif\"/> "
-"located to the right of the category name."
-msgstr ""
-"Kategori adının sağındaki sil <img "
-"src=\"ui/themes/default/img/delete.gif\"/> tuşunu tıklayın."
+msgid "Click the delete button <img src=\"ui/themes/default/img/delete.gif\"/> located to the right of the category name."
+msgstr "Kategori adının sağındaki sil <img src=\"ui/themes/default/img/delete.gif\"/> tuşunu tıklayın."
 
 #: familyconnections/ui/themes/default/templates/help/settings.php:4
 #: familyconnections/ui/themes/default/templates/help/settings.php:9
@@ -8590,62 +7967,37 @@ msgid "How do I change my password?"
 msgstr "Şifremi nasıl değiştiririm?"
 
 #: familyconnections/ui/themes/default/templates/help/settings.php:10
-msgid ""
-"An avatar is just a graphical representation of a person.  You can upload a "
-"picture of yourself or any picture that you feel represents you."
-msgstr ""
-"Simgeresim, sizi temsil eden bir simge ya da resimdir. Kendi fotoğrafınızı "
-"ya da sizi temsil ettiğini düşündüğünüz bir resmi yükleyebilirsiniz."
+msgid "An avatar is just a graphical representation of a person.  You can upload a picture of yourself or any picture that you feel represents you."
+msgstr "Simgeresim, sizi temsil eden bir simge ya da resimdir. Kendi fotoğrafınızı ya da sizi temsil ettiğini düşündüğünüz bir resmi yükleyebilirsiniz."
 
 #: familyconnections/ui/themes/default/templates/help/settings.php:12
 #: familyconnections/ui/themes/default/templates/help/settings.php:24
 #: familyconnections/ui/themes/default/templates/help/settings.php:36
-msgid ""
-"Click on the <a href=\"settings.php\">My Settings</a> link in the top right "
-"hand corner of the site."
-msgstr ""
-"Sitenin sağ üst köşesindeki <a href=\"settings.php\">Ayarlarım</a> "
-"bağlantısını tıklayın."
+msgid "Click on the <a href=\"settings.php\">My Settings</a> link in the top right hand corner of the site."
+msgstr "Sitenin sağ üst köşesindeki <a href=\"settings.php\">Ayarlarım</a> bağlantısını tıklayın."
 
 #: familyconnections/ui/themes/default/templates/help/settings.php:13
-msgid ""
-"Click the browse button, which will pop open a menu allowing you to search "
-"your computer for an avatar.  (Avatar's must be one of the following file "
-"types .jpg, .jpeg .gif or .bmp or .png)"
-msgstr ""
-"Arama tuşunu tıklayın; bilgisayarınızda resim aramanız için bir mönü açılır. "
-"(Resim şu türlerde olmalı: .jpg, .jpeg, .gif, .bmp, ya da .png.)"
+msgid "Click the browse button, which will pop open a menu allowing you to search your computer for an avatar.  (Avatar's must be one of the following file types .jpg, .jpeg .gif or .bmp or .png)"
+msgstr "Arama tuşunu tıklayın; bilgisayarınızda resim aramanız için bir mönü açılır. (Resim şu türlerde olmalı: .jpg, .jpeg, .gif, .bmp, ya da .png.)"
 
 #: familyconnections/ui/themes/default/templates/help/settings.php:14
-msgid ""
-"Once you have choosen your avatar, scroll down to the bottom of the Settings "
-"page and click the Submit button."
-msgstr ""
-"Simgeresmi seçtikten sonra Ayarlar sayfasının alt bölümüne gidin ve Gönder "
-"yazısını tıklayın."
+msgid "Once you have choosen your avatar, scroll down to the bottom of the Settings page and click the Submit button."
+msgstr "Simgeresmi seçtikten sonra Ayarlar sayfasının alt bölümüne gidin ve Gönder yazısını tıklayın."
 
 #: familyconnections/ui/themes/default/templates/help/settings.php:16
-msgid ""
-"Note: You can upload animated avatar's as long as the are smaller than 80 "
-"pixels x 80 pixels.  Uploading an avatar larger than this will result in the "
-"loss of animation."
-msgstr ""
-"Not: 80 x 80 piksel boyutundan büyük olmamaları koşuluyla hareketli "
-"görüntüler de yüklenebilir. Bu boyuttan büyük bir görüntü yüklenirse "
-"hareketli olarak gösterilmez."
+msgid "Note: You can upload animated avatar's as long as the are smaller than 80 pixels x 80 pixels.  Uploading an avatar larger than this will result in the loss of animation."
+msgstr "Not: 80 x 80 piksel boyutundan büyük olmamaları koşuluyla hareketli görüntüler de yüklenebilir. Bu boyuttan büyük bir görüntü yüklenirse hareketli olarak gösterilmez."
 
 #: familyconnections/ui/themes/default/templates/help/settings.php:25
 msgid "Choose your theme from the drop down menu."
 msgstr "Açılır mönüden temanızı seçin."
 
 #: familyconnections/ui/themes/default/templates/help/settings.php:26
-msgid ""
-"Scroll down to the bottom of the Settings page and click the Submit button."
+msgid "Scroll down to the bottom of the Settings page and click the Submit button."
 msgstr "Ayarlar sayfasının alt bölümüne geçin ve Gönder yazısını tıklayın."
 
 #: familyconnections/ui/themes/default/templates/help/settings.php:27
-msgid ""
-"Click continue and your theme will automatically be applied to the site."
+msgid "Click continue and your theme will automatically be applied to the site."
 msgstr "Devam yazısını tıkladığınızda tema siteye uygulanır."
 
 #: familyconnections/ui/themes/default/templates/help/settings.php:37
@@ -8665,25 +8017,12 @@ msgid "YouTube Private Videos"
 msgstr "YouTube Kişisel Videolar"
 
 #: familyconnections/ui/themes/default/templates/help/video-gallery.php:10
-msgid ""
-"When you connect your Family Connections account with YouTube, a unique "
-"token is created which grants your Family Connections account access to view "
-"data on YouTube, just like if you were logged into YouTube."
-msgstr ""
-"Famıly Connectıons hesabı YouTube ile birleştirildiğinde, tıpkı YouTube "
-"sitesine giriş yaptığınızda olduğu gibi, YouTube sitesindeki verilerinizi "
-"Familz Connections hesabınızdan görebilirsiniz."
+msgid "When you connect your Family Connections account with YouTube, a unique token is created which grants your Family Connections account access to view data on YouTube, just like if you were logged into YouTube."
+msgstr "Famıly Connectıons hesabı YouTube ile birleştirildiğinde, tıpkı YouTube sitesine giriş yaptığınızda olduğu gibi, YouTube sitesindeki verilerinizi Familz Connections hesabınızdan görebilirsiniz."
 
 #: familyconnections/ui/themes/default/templates/help/video-gallery.php:11
-msgid ""
-"In order to keep your videos private on YouTube, but public to the members "
-"of your family site, Family Connections will use your unique token to let "
-"other members view your private videos."
-msgstr ""
-"Videolarınızın YouTube üzerinde kişisel kullanım özelliğini korumak ama aynı "
-"anda da aile sitenizdeki üyelerin bakmasına izin vermek için, Family "
-"Connections bu videoları üyelerin izleyebilmesine izin verecek size özgü "
-"hesabı kullanır."
+msgid "In order to keep your videos private on YouTube, but public to the members of your family site, Family Connections will use your unique token to let other members view your private videos."
+msgstr "Videolarınızın YouTube üzerinde kişisel kullanım özelliğini korumak ama aynı anda da aile sitenizdeki üyelerin bakmasına izin vermek için, Family Connections bu videoları üyelerin izleyebilmesine izin verecek size özgü hesabı kullanır."
 
 #: familyconnections/video.php:154
 msgid "This page will automatically refresh"
@@ -8698,12 +8037,8 @@ msgid "Upload to YouTube"
 msgstr "YotuTube sitesine yükle"
 
 #: familyconnections/video.php:219
-msgid ""
-"The video gallery relies on Gooble.  You must create a Google account and "
-"connect it with your Family Connections account."
-msgstr ""
-"Video galerisi Google tabanlıdır. Bir Google hesabı oluşturup bunu Family "
-"Connections hesabınızla ilişkilendirmelisiniz."
+msgid "The video gallery relies on Gooble.  You must create a Google account and connect it with your Family Connections account."
+msgstr "Video galerisi Google tabanlıdır. Bir Google hesabı oluşturup bunu Family Connections hesabınızla ilişkilendirmelisiniz."
 
 #: familyconnections/video.php:253
 msgid "Upload YouTube Video"
@@ -8722,16 +8057,8 @@ msgid "Unlisted"
 msgstr "Listelenmemiş"
 
 #: familyconnections/video.php:280
-msgid ""
-"\"Unlisted\" means that only people who know the link to the video can view "
-"it. The video will not appear in any of YouTube's public spaces, such as "
-"search results, your channel, or the Browse page, but the link can be shared "
-"with anyone."
-msgstr ""
-"\"Listelenmemiş\", yalnızca bağlantıyı bilenlerin videoyu izleyebildiği "
-"anlamına gelir. Video YouTube içinde herkese açık bölümlerde, kendi "
-"kanalınızda ya da arama sayfasında gösterilmez ama bağlantısı her istenen "
-"kişiyle paylaşılabilir."
+msgid "\"Unlisted\" means that only people who know the link to the video can view it. The video will not appear in any of YouTube's public spaces, such as search results, your channel, or the Browse page, but the link can be shared with anyone."
+msgstr "\"Listelenmemiş\", yalnızca bağlantıyı bilenlerin videoyu izleyebildiği anlamına gelir. Video YouTube içinde herkese açık bölümlerde, kendi kanalınızda ya da arama sayfasında gösterilmez ama bağlantısı her istenen kişiyle paylaşılabilir."
 
 #: familyconnections/video.php:485
 msgid "No Videos"
@@ -8762,12 +8089,8 @@ msgid "Why aren't my videos showing up?"
 msgstr "Videolarım neden gösterilmiyor?"
 
 #: familyconnections/video.php:495
-msgid ""
-"Depending on your setup and the size of the video uploaded, it can take over "
-"an hour before your videos show up on the site."
-msgstr ""
-"Ayarlara ve yüklenen videonun boyutuna bağlı olarak, videolarınızın bu "
-"sitede gösterilmesi bir saat kadar sonra gerçekleşebilir."
+msgid "Depending on your setup and the size of the video uploaded, it can take over an hour before your videos show up on the site."
+msgstr "Ayarlara ve yüklenen videonun boyutuna bağlı olarak, videolarınızın bu sitede gösterilmesi bir saat kadar sonra gerçekleşebilir."
 
 #: familyconnections/video.php:500
 msgid "Learn more."
@@ -8778,19 +8101,16 @@ msgid "Latest Videos"
 msgstr "En Yeni Videolar"
 
 #: familyconnections/video.php:526
-#, php-format
 msgctxt "%s is a person's name"
 msgid "by %s"
 msgstr "%s tarafından"
 
 #: familyconnections/video.php:527 familyconnections/video.php:1143
-#, php-format
 msgctxt "%s is a date"
 msgid "on %s"
 msgstr "- %s"
 
 #: familyconnections/video.php:566 familyconnections/video.php:1031
-#, php-format
 msgid "%d video"
 msgid_plural "%d videos"
 msgstr[0] "%d video"
@@ -8825,9 +8145,7 @@ msgid "This video was uploaded to YouTube successfully."
 msgstr "Bu video YouTube'a başarıyla yüklendi."
 
 #: familyconnections/video.php:740
-msgid ""
-"However it may take a few moments before you video is viewable. Please check "
-"back later."
+msgid "However it may take a few moments before you video is viewable. Please check back later."
 msgstr "Videonun görülebilir hale gelmesi zaman alabilir."
 
 #: familyconnections/video.php:742
@@ -8847,18 +8165,12 @@ msgid "Delete from YouTube?"
 msgstr "YouTube üzerinde silinsin mi?"
 
 #: familyconnections/video.php:821
-msgid ""
-"JavaScript must be enabled in order for you to use the Video Gallery. "
-"However, it seems JavaScript is either disabled or not supported by your "
-"browser."
-msgstr ""
-"Video Galerisinin kullanılabilmesi için Javascript etkin olmalı. Javascript "
-"devrede değil ya da tarayıcınız tarafından desteklenmiyor."
+msgid "JavaScript must be enabled in order for you to use the Video Gallery. However, it seems JavaScript is either disabled or not supported by your browser."
+msgstr "Video Galerisinin kullanılabilmesi için Javascript etkin olmalı. Javascript devrede değil ya da tarayıcınız tarafından desteklenmiyor."
 
 #: familyconnections/video.php:823
 msgid "Please enable JavaScript by changing your browser options."
-msgstr ""
-"Tarayıcı seçeneklerini değiştirerek Javascript seçeneğini devreye sokun."
+msgstr "Tarayıcı seçeneklerini değiştirerek Javascript seçeneğini devreye sokun."
 
 #: familyconnections/video.php:870
 msgid "Could not find video"
@@ -8917,7 +8229,6 @@ msgid "Source Video cannot be found."
 msgstr "Kaynak Video bulunamadı."
 
 #: familyconnections/video.php:1327
-#, php-format
 msgid "The video file for this video could not be found at %s."
 msgstr "Bu video için video dosyası %s adresinde bulunamadı."
 
@@ -8928,3 +8239,4 @@ msgstr "Foursquare verisiyle kullanıcı bulunamadı."
 #: familyconnections/whereiseveryone.php:138
 msgid "History"
 msgstr "Geçmiş"
+
